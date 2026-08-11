@@ -11,7 +11,7 @@
                 "cross"
             ],
             "category": "agent",
-            "stars": 67919,
+            "stars": 67943,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Rust",
@@ -31,9 +31,9 @@
                 "windows"
             ],
             "category": "context",
-            "stars": 20865,
+            "stars": 20885,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "NOASSERTION",
             "homepage_url": "https://screenpipe.com"
@@ -50,9 +50,9 @@
                 "cross"
             ],
             "category": "agent",
-            "stars": 4379,
+            "stars": 4381,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://gptme.org/docs/"
@@ -67,9 +67,9 @@
                 "selfhost"
             ],
             "category": "agent",
-            "stars": 17195,
+            "stars": 17213,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://www.getwren.ai/en/open-core"
@@ -83,7 +83,7 @@
                 "selfhost"
             ],
             "category": "agent",
-            "stars": 11029,
+            "stars": 11035,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Python",
@@ -99,7 +99,7 @@
                 "selfhost"
             ],
             "category": "agent",
-            "stars": 49765,
+            "stars": 49769,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Ruby",
@@ -115,7 +115,7 @@
                 "selfhost"
             ],
             "category": "agent",
-            "stars": 36303,
+            "stars": 36304,
             "flags": [],
             "last_commit": "04/29/2025",
             "language": "TypeScript",
@@ -131,11 +131,11 @@
                 "selfhost"
             ],
             "category": "agent",
-            "stars": 186462,
+            "stars": 186501,
             "flags": [
                 "custom-license"
             ],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://agpt.co"
@@ -152,9 +152,9 @@
                 "selfhost"
             ],
             "category": "agent",
-            "stars": 17741,
+            "stars": 17742,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://influxdata.com/telegraf"
@@ -168,7 +168,7 @@
                 "selfhost"
             ],
             "category": "ai-image-gui",
-            "stars": 164461,
+            "stars": 164464,
             "flags": [],
             "last_commit": "03/02/2026",
             "language": "Python",
@@ -184,9 +184,9 @@
                 "selfhost"
             ],
             "category": "ai-image-gui",
-            "stars": 125520,
+            "stars": 126320,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://www.comfy.org/"
@@ -201,7 +201,7 @@
                 "selfhost"
             ],
             "category": "ai-image-gui",
-            "stars": 27794,
+            "stars": 27825,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Python",
@@ -217,7 +217,7 @@
                 "selfhost"
             ],
             "category": "ai-image-gui",
-            "stars": 12949,
+            "stars": 12952,
             "flags": [
                 "custom-description"
             ],
@@ -235,7 +235,7 @@
                 "selfhost"
             ],
             "category": "ai-image-gui",
-            "stars": 52138,
+            "stars": 52159,
             "flags": [],
             "last_commit": "12/01/2025",
             "language": "Python",
@@ -251,9 +251,9 @@
                 "selfhost"
             ],
             "category": "ai-image-gui",
-            "stars": 7282,
+            "stars": 7305,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "https://vladmandic.github.io/sdnext/"
@@ -267,9 +267,9 @@
                 "cross"
             ],
             "category": "ai-utilities",
-            "stars": 33327,
+            "stars": 33334,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "MIT",
             "homepage_url": "https://netron.app"
@@ -285,7 +285,7 @@
                 "cross"
             ],
             "category": "all-in-one",
-            "stars": 10341,
+            "stars": 10343,
             "flags": [],
             "last_commit": "02/23/2026",
             "language": "Rust",
@@ -302,9 +302,9 @@
                 "selfhost"
             ],
             "category": "all-in-one",
-            "stars": 81459,
+            "stars": 81474,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://lobehub.com"
@@ -319,7 +319,7 @@
                 "selfhost"
             ],
             "category": "all-in-one",
-            "stars": 36412,
+            "stars": 36436,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "Python",
@@ -335,9 +335,9 @@
                 "selfhost"
             ],
             "category": "assistant",
-            "stars": 17424,
+            "stars": 17425,
             "flags": [],
-            "last_commit": "08/05/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://getleon.ai"
@@ -353,9 +353,9 @@
                 "selfhost"
             ],
             "category": "information-processing",
-            "stars": 7129,
+            "stars": 7135,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "AGPL-3.0",
             "homepage_url": "https://unstract.com"
@@ -370,9 +370,9 @@
                 "selfhost"
             ],
             "category": "information-processing",
-            "stars": 164205,
+            "stars": 165073,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://firecrawl.dev"
@@ -404,7 +404,7 @@
                 "cross"
             ],
             "category": "information-processing",
-            "stars": 7557,
+            "stars": 7581,
             "flags": [],
             "last_commit": "06/29/2026",
             "language": "Rust",
@@ -423,7 +423,7 @@
                 "web-cloud"
             ],
             "category": "information-processing",
-            "stars": 27721,
+            "stars": 27748,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -442,9 +442,9 @@
                 "cross"
             ],
             "category": "information-processing",
-            "stars": 64476,
+            "stars": 64563,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://docling-project.github.io/docling"
@@ -458,9 +458,9 @@
                 "selfhost"
             ],
             "category": "llm-gui",
-            "stars": 148328,
+            "stars": 148421,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://openwebui.com"
@@ -474,7 +474,7 @@
                 "cross"
             ],
             "category": "llm-gui",
-            "stars": 77408,
+            "stars": 77407,
             "flags": [],
             "last_commit": "05/27/2025",
             "language": "C++",
@@ -490,9 +490,9 @@
                 "cross"
             ],
             "category": "llm-gui",
-            "stars": 43934,
+            "stars": 43953,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://jan.ai/"
@@ -506,9 +506,9 @@
                 "cross"
             ],
             "category": "llm-gui",
-            "stars": 41384,
+            "stars": 41394,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://chatboxai.app?utm_medium=github"
@@ -522,7 +522,7 @@
                 "selfhost"
             ],
             "category": "llm-gui",
-            "stars": 47541,
+            "stars": 47543,
             "flags": [],
             "last_commit": "06/02/2026",
             "language": "Python",
@@ -538,9 +538,9 @@
                 "cross"
             ],
             "category": "llm-gui",
-            "stars": 50181,
+            "stars": 50239,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://cherryai.com"
@@ -554,7 +554,7 @@
                 "selfhost"
             ],
             "category": "llm-gui",
-            "stars": 31868,
+            "stars": 31912,
             "flags": [],
             "last_commit": "07/11/2026",
             "language": "JavaScript",
@@ -573,7 +573,7 @@
                 "web-cloud"
             ],
             "category": "llm-gui",
-            "stars": 88597,
+            "stars": 88607,
             "flags": [],
             "last_commit": "07/06/2026",
             "language": "TypeScript",
@@ -589,9 +589,9 @@
                 "selfhost"
             ],
             "category": "llm-gui",
-            "stars": 41859,
+            "stars": 41894,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://librechat.ai/"
@@ -625,9 +625,9 @@
                 "selfhost"
             ],
             "category": "manager",
-            "stars": 178141,
+            "stars": 178237,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://ollama.com"
@@ -641,7 +641,7 @@
                 "cross"
             ],
             "category": "manager",
-            "stars": 8618,
+            "stars": 8621,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "C#",
@@ -660,9 +660,9 @@
                 "selfhost"
             ],
             "category": "model-tools",
-            "stars": 73941,
+            "stars": 73974,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "https://llamafactory.readthedocs.io"
@@ -679,7 +679,7 @@
                 "cross"
             ],
             "category": "model-tools",
-            "stars": 31281,
+            "stars": 31283,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Python",
@@ -698,9 +698,9 @@
                 "cross"
             ],
             "category": "model-tools",
-            "stars": 41637,
+            "stars": 41649,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "https://docs.agno.com"
@@ -714,9 +714,9 @@
                 "cross"
             ],
             "category": "model-tools",
-            "stars": 5013,
+            "stars": 5015,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://kiln.tech"
@@ -730,9 +730,9 @@
                 "cross"
             ],
             "category": "rag",
-            "stars": 64528,
+            "stars": 64569,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "MIT",
             "homepage_url": "https://anythingllm.com"
@@ -746,7 +746,7 @@
                 "selfhost"
             ],
             "category": "rag",
-            "stars": 25691,
+            "stars": 25695,
             "flags": [],
             "last_commit": "07/14/2026",
             "language": "Python",
@@ -778,9 +778,9 @@
                 "selfhost"
             ],
             "category": "rag",
-            "stars": 87127,
+            "stars": 87198,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "Apache-2.0",
             "homepage_url": "https://ragflow.io"
@@ -797,7 +797,7 @@
                 "cross"
             ],
             "category": "rag",
-            "stars": 9009,
+            "stars": 9012,
             "flags": [],
             "last_commit": "07/30/2026",
             "language": "Python",
@@ -816,7 +816,7 @@
                 "selfhost"
             ],
             "category": "rag",
-            "stars": 7951,
+            "stars": 7954,
             "flags": [],
             "last_commit": "11/07/2025",
             "language": "Python",
@@ -832,7 +832,7 @@
                 "selfhost"
             ],
             "category": "rag",
-            "stars": 2967,
+            "stars": 2966,
             "flags": [],
             "last_commit": "04/27/2026",
             "language": "TypeScript",
@@ -849,9 +849,9 @@
                 "selfhost"
             ],
             "category": "rag",
-            "stars": 18202,
+            "stars": 18204,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://app.docsgpt.cloud/"
@@ -867,7 +867,7 @@
                 "cross"
             ],
             "category": "research",
-            "stars": 8029,
+            "stars": 8030,
             "flags": [],
             "last_commit": "11/19/2025",
             "language": "Python",
@@ -886,7 +886,7 @@
                 "selfhost"
             ],
             "category": "research",
-            "stars": 28900,
+            "stars": 28918,
             "flags": [],
             "last_commit": "07/18/2026",
             "language": "Python",
@@ -902,9 +902,9 @@
                 "cross"
             ],
             "category": "chat",
-            "stars": 29182,
+            "stars": 29186,
             "flags": [],
-            "last_commit": "08/05/2026",
+            "last_commit": "08/10/2026",
             "language": "Kotlin",
             "license": "AGPL-3.0",
             "homepage_url": "https://signal.org"
@@ -918,7 +918,7 @@
                 "cross"
             ],
             "category": "chat",
-            "stars": 32569,
+            "stars": 32575,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "C++",
@@ -936,9 +936,9 @@
                 "cross"
             ],
             "category": "chat",
-            "stars": 19223,
+            "stars": 19233,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Haskell",
             "license": "AGPL-3.0",
             "homepage_url": "https://simplex.chat"
@@ -952,9 +952,9 @@
                 "selfhost"
             ],
             "category": "collaboration",
-            "stars": 38714,
+            "stars": 38718,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://mattermost.com"
@@ -969,9 +969,9 @@
                 "web-cloud"
             ],
             "category": "collaboration",
-            "stars": 25626,
+            "stars": 25629,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "https://zulip.com"
@@ -986,9 +986,9 @@
                 "web-cloud"
             ],
             "category": "collaboration",
-            "stars": 45951,
+            "stars": 45954,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://rocket.chat/"
@@ -1002,7 +1002,7 @@
                 "cross"
             ],
             "category": "mail",
-            "stars": 17733,
+            "stars": 17734,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "JavaScript",
@@ -1018,11 +1018,11 @@
                 "cross"
             ],
             "category": "mail",
-            "stars": 13814,
+            "stars": 13820,
             "flags": [
                 "custom-description"
             ],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Kotlin",
             "license": "Apache-2.0",
             "homepage_url": "https://thunderbird.net/mobile"
@@ -1038,9 +1038,9 @@
                 "web-cloud"
             ],
             "category": "video-conference",
-            "stars": 29708,
+            "stars": 29714,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://jitsi.org/meet"
@@ -1056,9 +1056,9 @@
                 "web-cloud"
             ],
             "category": "video-conference",
-            "stars": 13356,
+            "stars": 13359,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://element.io"
@@ -1074,9 +1074,9 @@
                 "cross"
             ],
             "category": "backup",
-            "stars": 13812,
+            "stars": 13825,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "Apache-2.0",
             "homepage_url": "https://kopia.io"
@@ -1092,7 +1092,7 @@
                 "cross"
             ],
             "category": "backup",
-            "stars": 35436,
+            "stars": 35452,
             "flags": [],
             "last_commit": "08/01/2026",
             "language": "Go",
@@ -1108,9 +1108,9 @@
                 "cross"
             ],
             "category": "backup",
-            "stars": 14868,
+            "stars": 14873,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "NOASSERTION",
             "homepage_url": ""
@@ -1126,9 +1126,9 @@
                 "cross"
             ],
             "category": "backup",
-            "stars": 13591,
+            "stars": 13593,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://www.borgbackup.org/"
@@ -1144,7 +1144,7 @@
                 "cross"
             ],
             "category": "backup",
-            "stars": 59035,
+            "stars": 59064,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -1160,7 +1160,7 @@
                 "linux"
             ],
             "category": "backup",
-            "stars": 4222,
+            "stars": 4223,
             "flags": [],
             "last_commit": "04/08/2026",
             "language": "Vala",
@@ -1177,9 +1177,9 @@
                 "selfhost"
             ],
             "category": "backup",
-            "stars": 7094,
+            "stars": 7101,
             "flags": [],
-            "last_commit": "08/03/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://garethgeorge.github.io/backrest/ "
@@ -1212,9 +1212,9 @@
                 "selfhost"
             ],
             "category": "storage",
-            "stars": 36371,
+            "stars": 36384,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "PHP",
             "license": "AGPL-3.0",
             "homepage_url": "https://nextcloud.com"
@@ -1231,7 +1231,7 @@
                 "selfhost"
             ],
             "category": "storage",
-            "stars": 15086,
+            "stars": 15094,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "C",
@@ -1247,7 +1247,7 @@
                 "selfhost"
             ],
             "category": "storage",
-            "stars": 8830,
+            "stars": 8831,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "PHP",
@@ -1263,9 +1263,9 @@
                 "selfhost"
             ],
             "category": "storage",
-            "stars": 16910,
+            "stars": 16918,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://ceph.io"
@@ -1279,7 +1279,7 @@
                 "selfhost"
             ],
             "category": "storage",
-            "stars": 4231,
+            "stars": 4230,
             "flags": [],
             "last_commit": "03/09/2025",
             "language": "TypeScript",
@@ -1297,9 +1297,9 @@
                 "cross"
             ],
             "category": "sync",
-            "stars": 87495,
+            "stars": 87542,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MPL-2.0",
             "homepage_url": "https://syncthing.net/"
@@ -1315,7 +1315,7 @@
                 "macos"
             ],
             "category": "sync",
-            "stars": 3859,
+            "stars": 3861,
             "flags": [],
             "last_commit": "07/12/2026",
             "language": "Objective-C",
@@ -1333,7 +1333,7 @@
                 "cross"
             ],
             "category": "sync",
-            "stars": 5097,
+            "stars": 5102,
             "flags": [],
             "last_commit": "07/20/2026",
             "language": "C",
@@ -1351,7 +1351,7 @@
                 "jetbrains"
             ],
             "category": "code-assistant",
-            "stars": 33819,
+            "stars": 33822,
             "flags": [],
             "last_commit": "06/30/2026",
             "language": "Rust",
@@ -1368,9 +1368,9 @@
                 "jetbrains"
             ],
             "category": "code-assistant",
-            "stars": 35411,
+            "stars": 35427,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://continue.dev"
@@ -1384,9 +1384,9 @@
                 "vscode"
             ],
             "category": "code-assistant",
-            "stars": 65926,
+            "stars": 65971,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://cline.bot"
@@ -1402,9 +1402,9 @@
                 "cross"
             ],
             "category": "code-assistant",
-            "stars": 52608,
+            "stars": 52644,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": "https://goose-docs.ai/"
@@ -1419,7 +1419,7 @@
                 "web-cloud"
             ],
             "category": "code-assistant",
-            "stars": 69746,
+            "stars": 69760,
             "flags": [],
             "last_commit": "01/21/2026",
             "language": "Python",
@@ -1435,7 +1435,7 @@
                 "vscode"
             ],
             "category": "code-assistant",
-            "stars": 24352,
+            "stars": 24350,
             "flags": [],
             "last_commit": "05/15/2026",
             "language": "TypeScript",
@@ -1470,7 +1470,7 @@
                 "cross"
             ],
             "category": "code-assistant",
-            "stars": 15579,
+            "stars": 15581,
             "flags": [],
             "last_commit": "10/03/2025",
             "language": "Go",
@@ -1488,7 +1488,7 @@
                 "cross"
             ],
             "category": "code-assistant",
-            "stars": 33711,
+            "stars": 33708,
             "flags": [],
             "last_commit": "06/18/2026",
             "language": "Python",
@@ -1506,7 +1506,7 @@
                 "cross"
             ],
             "category": "code-assistant",
-            "stars": 48083,
+            "stars": 48106,
             "flags": [],
             "last_commit": "05/22/2026",
             "language": "Python",
@@ -1523,9 +1523,9 @@
                 "selfhost"
             ],
             "category": "code-assistant",
-            "stars": 83555,
+            "stars": 83641,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://openhands.dev"
@@ -1542,9 +1542,9 @@
                 "linux"
             ],
             "category": "code-editor",
-            "stars": 88322,
+            "stars": 88389,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "NOASSERTION",
             "homepage_url": "https://zed.dev"
@@ -1560,7 +1560,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 45773,
+            "stars": 45783,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Rust",
@@ -1576,7 +1576,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 38730,
+            "stars": 38734,
             "flags": [],
             "last_commit": "07/15/2026",
             "language": "Rust",
@@ -1595,9 +1595,9 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 40744,
+            "stars": 40728,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Vim Script",
             "license": "Vim",
             "homepage_url": "https://www.vim.org"
@@ -1613,7 +1613,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 101718,
+            "stars": 101723,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Vim Script",
@@ -1631,7 +1631,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 20227,
+            "stars": 20225,
             "flags": [],
             "last_commit": "02/17/2025",
             "language": "Vim Script",
@@ -1649,7 +1649,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 28424,
+            "stars": 28426,
             "flags": [],
             "last_commit": "07/03/2026",
             "language": "Lua",
@@ -1667,7 +1667,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 27125,
+            "stars": 27132,
             "flags": [],
             "last_commit": "06/02/2026",
             "language": "Lua",
@@ -1683,9 +1683,9 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 188539,
+            "stars": 188550,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://code.visualstudio.com"
@@ -1699,7 +1699,7 @@
                 "cross"
             ],
             "category": "code-editor",
-            "stars": 32742,
+            "stars": 32760,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Shell",
@@ -1715,7 +1715,7 @@
                 "macos"
             ],
             "category": "code-editor",
-            "stars": 22975,
+            "stars": 22977,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Swift",
@@ -1731,9 +1731,9 @@
                 "selfhost"
             ],
             "category": "code-editor",
-            "stars": 78672,
+            "stars": 78692,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://coder.com"
@@ -1748,7 +1748,7 @@
                 "macos"
             ],
             "category": "code-editor",
-            "stars": 28859,
+            "stars": 28858,
             "flags": [
                 "custom-description"
             ],
@@ -1766,7 +1766,7 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 31847,
+            "stars": 31848,
             "flags": [],
             "last_commit": "02/25/2026",
             "language": "C#",
@@ -1782,7 +1782,7 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 6946,
+            "stars": 6949,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "TypeScript",
@@ -1800,7 +1800,7 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 7110,
+            "stars": 7111,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Rust",
@@ -1818,9 +1818,9 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 60164,
+            "stars": 60188,
             "flags": [],
-            "last_commit": "08/01/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": ""
@@ -1834,9 +1834,9 @@
                 "cross"
             ],
             "category": "game-engine",
-            "stars": 115414,
+            "stars": 115477,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/11/2026",
             "language": "C++",
             "license": "MIT",
             "homepage_url": "https://godotengine.org"
@@ -1850,9 +1850,9 @@
                 "cross"
             ],
             "category": "game-engine",
-            "stars": 25492,
+            "stars": 25527,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "NOASSERTION",
             "homepage_url": "https://gdevelop.io"
@@ -1866,9 +1866,9 @@
                 "cross"
             ],
             "category": "git-client",
-            "stars": 21740,
+            "stars": 21746,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://github.com/apps/desktop"
@@ -1882,9 +1882,9 @@
                 "cross"
             ],
             "category": "ide",
-            "stars": 20439,
+            "stars": 20443,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Java",
             "license": "NOASSERTION",
             "homepage_url": "https://jetbrains.com/idea"
@@ -1900,7 +1900,7 @@
                 "cross"
             ],
             "category": "language-package-manager",
-            "stars": 8097,
+            "stars": 8098,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "TypeScript",
@@ -1918,9 +1918,9 @@
                 "cross"
             ],
             "category": "language-package-manager",
-            "stars": 36016,
+            "stars": 36023,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://pnpm.io"
@@ -1936,9 +1936,9 @@
                 "cross"
             ],
             "category": "language-package-manager",
-            "stars": 95344,
+            "stars": 95358,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "NOASSERTION",
             "homepage_url": "https://bun.com"
@@ -1954,9 +1954,9 @@
                 "cross"
             ],
             "category": "language-package-manager",
-            "stars": 88543,
+            "stars": 88582,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": "https://docs.astral.sh/uv"
@@ -1970,9 +1970,9 @@
                 "cross"
             ],
             "category": "game-launcher",
-            "stars": 11952,
+            "stars": 11966,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://heroicgameslauncher.com"
@@ -1986,7 +1986,7 @@
                 "windows"
             ],
             "category": "game-launcher",
-            "stars": 13725,
+            "stars": 13729,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "C#",
@@ -2002,7 +2002,7 @@
                 "selfhost"
             ],
             "category": "game-launcher",
-            "stars": 11992,
+            "stars": 12006,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Python",
@@ -2018,11 +2018,11 @@
                 "selfhost"
             ],
             "category": "game-launcher",
-            "stars": 2234,
+            "stars": 2239,
             "flags": [
                 "custom-description"
             ],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "AGPL-3.0",
             "homepage_url": "https://pelican.dev"
@@ -2036,9 +2036,9 @@
                 "cross"
             ],
             "category": "games",
-            "stars": 7489,
+            "stars": 7490,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://endless-sky.github.io/"
@@ -2052,9 +2052,9 @@
                 "cross"
             ],
             "category": "games",
-            "stars": 12907,
+            "stars": 12918,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "http://cataclysmdda.org"
@@ -2069,9 +2069,9 @@
                 "android"
             ],
             "category": "games",
-            "stars": 11078,
+            "stars": 11084,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Kotlin",
             "license": "MPL-2.0",
             "homepage_url": ""
@@ -2085,9 +2085,9 @@
                 "cross"
             ],
             "category": "games",
-            "stars": 6816,
+            "stars": 6817,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-2.0",
             "homepage_url": "https://www.wesnoth.org/"
@@ -2101,9 +2101,9 @@
                 "cross"
             ],
             "category": "games",
-            "stars": 7457,
+            "stars": 7462,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "GPL-3.0",
             "homepage_url": "https://veloren.net"
@@ -2117,7 +2117,7 @@
                 "web-cloud"
             ],
             "category": "games",
-            "stars": 18569,
+            "stars": 18575,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Scala",
@@ -2133,7 +2133,7 @@
                 "cross"
             ],
             "category": "games",
-            "stars": 17202,
+            "stars": 17210,
             "flags": [],
             "last_commit": "08/01/2026",
             "language": "C#",
@@ -2150,9 +2150,9 @@
                 "firefox"
             ],
             "category": "browser-extensions",
-            "stars": 66834,
+            "stars": 66867,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "GPL-3.0",
             "homepage_url": ""
@@ -2169,7 +2169,7 @@
             "category": "browser-extensions",
             "stars": 22251,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://darkreader.org/"
@@ -2184,7 +2184,7 @@
                 "firefox"
             ],
             "category": "browser-extensions",
-            "stars": 8137,
+            "stars": 8138,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -2200,7 +2200,7 @@
                 "n/a"
             ],
             "category": "neovim-extensions",
-            "stars": 7217,
+            "stars": 7219,
             "flags": [],
             "last_commit": "06/20/2026",
             "language": "Lua",
@@ -2218,7 +2218,7 @@
             "category": "neovim-extensions",
             "stars": 3817,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Lua",
             "license": "GPL-3.0",
             "homepage_url": ""
@@ -2232,7 +2232,7 @@
                 "n/a"
             ],
             "category": "neovim-extensions",
-            "stars": 7479,
+            "stars": 7480,
             "flags": [],
             "last_commit": "07/26/2026",
             "language": "Lua",
@@ -2248,7 +2248,7 @@
                 "n/a"
             ],
             "category": "neovim-extensions",
-            "stars": 9503,
+            "stars": 9502,
             "flags": [],
             "last_commit": "04/30/2026",
             "language": "Vim Script",
@@ -2264,7 +2264,7 @@
                 "cross"
             ],
             "category": "ide",
-            "stars": 15169,
+            "stars": 15173,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Rust",
@@ -2280,7 +2280,7 @@
                 "n/a"
             ],
             "category": "neovim-extensions",
-            "stars": 21393,
+            "stars": 21395,
             "flags": [],
             "last_commit": "06/29/2026",
             "language": "Lua",
@@ -2296,9 +2296,9 @@
                 "cross"
             ],
             "category": "browser",
-            "stars": 43839,
+            "stars": 43865,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "MPL-2.0",
             "homepage_url": "https://zen-browser.app"
@@ -2312,9 +2312,9 @@
                 "cross"
             ],
             "category": "browser",
-            "stars": 23306,
+            "stars": 23317,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": null,
             "license": "MPL-2.0",
             "homepage_url": "https://brave.com"
@@ -2328,7 +2328,7 @@
                 "cross"
             ],
             "category": "browser",
-            "stars": 8311,
+            "stars": 8313,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -2344,7 +2344,7 @@
                 "cross"
             ],
             "category": "browser",
-            "stars": 9128,
+            "stars": 9132,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "JavaScript",
@@ -2360,7 +2360,7 @@
                 "cross"
             ],
             "category": "browser",
-            "stars": 9005,
+            "stars": 9007,
             "flags": [],
             "last_commit": "02/04/2026",
             "language": "TypeScript",
@@ -2376,9 +2376,9 @@
                 "selfhost"
             ],
             "category": "browser",
-            "stars": 21899,
+            "stars": 21906,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "Apache-2.0",
             "homepage_url": "https://neko.m1k1o.net/"
@@ -2392,7 +2392,7 @@
                 "cross"
             ],
             "category": "download-manager",
-            "stars": 25732,
+            "stars": 25743,
             "flags": [],
             "last_commit": "07/27/2026",
             "language": "Go",
@@ -2408,7 +2408,7 @@
                 "cross"
             ],
             "category": "download-manager",
-            "stars": 17166,
+            "stars": 17172,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Kotlin",
@@ -2440,7 +2440,7 @@
                 "selfhost"
             ],
             "category": "download-manager",
-            "stars": 10894,
+            "stars": 10896,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C++",
@@ -2456,7 +2456,7 @@
                 "selfhost"
             ],
             "category": "search-engine",
-            "stars": 36066,
+            "stars": 36088,
             "flags": [],
             "last_commit": "04/11/2026",
             "language": "TypeScript",
@@ -2489,9 +2489,9 @@
                 "cross"
             ],
             "category": "audio-editor",
-            "stars": 17533,
+            "stars": 17541,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://wiki.audacityteam.org/wiki/For_Developers"
@@ -2505,7 +2505,7 @@
                 "cross"
             ],
             "category": "audio-editor",
-            "stars": 4173,
+            "stars": 4175,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "C#",
@@ -2521,7 +2521,7 @@
                 "cross"
             ],
             "category": "audio-player",
-            "stars": 48258,
+            "stars": 48277,
             "flags": [],
             "last_commit": "07/30/2026",
             "language": "Dart",
@@ -2538,7 +2538,7 @@
                 "selfhost"
             ],
             "category": "audio-player",
-            "stars": 9436,
+            "stars": 9447,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -2554,9 +2554,9 @@
                 "cross"
             ],
             "category": "audio-player",
-            "stars": 2292,
+            "stars": 2297,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "GPL-3.0",
             "homepage_url": ""
@@ -2571,9 +2571,9 @@
                 "selfhost"
             ],
             "category": "audio-player",
-            "stars": 22800,
+            "stars": 22810,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "GPL-3.0",
             "homepage_url": "https://www.navidrome.org"
@@ -2587,7 +2587,7 @@
                 "web-cloud"
             ],
             "category": "graphics",
-            "stars": 26793,
+            "stars": 26799,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Rust",
@@ -2603,9 +2603,9 @@
                 "cross"
             ],
             "category": "graphics",
-            "stars": 32729,
+            "stars": 32748,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "C++",
             "license": "LGPL-2.1",
             "homepage_url": "https://www.freecad.org"
@@ -2619,9 +2619,9 @@
                 "cross"
             ],
             "category": "graphics",
-            "stars": 19649,
+            "stars": 19664,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://developer.blender.org/docs/handbook/contributing/using_git/#github-mirror"
@@ -2637,7 +2637,7 @@
             "category": "graphics",
             "stars": 2261,
             "flags": [],
-            "last_commit": "07/27/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "",
             "homepage_url": "https://gaphor.org"
@@ -2651,9 +2651,9 @@
                 "cross"
             ],
             "category": "image-editing",
-            "stars": 12910,
+            "stars": 12920,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "C",
             "license": "GPL-3.0",
             "homepage_url": "https://www.darktable.org"
@@ -2667,9 +2667,9 @@
                 "cross"
             ],
             "category": "image-editing",
-            "stars": 4102,
+            "stars": 4104,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://rawtherapee.com"
@@ -2683,9 +2683,9 @@
                 "web-cloud"
             ],
             "category": "graphics",
-            "stars": 58325,
+            "stars": 58357,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Clojure",
             "license": "MPL-2.0",
             "homepage_url": "https://penpot.app"
@@ -2699,7 +2699,7 @@
                 "cross"
             ],
             "category": "graphics",
-            "stars": 9914,
+            "stars": 9918,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C++",
@@ -2715,7 +2715,7 @@
                 "cross"
             ],
             "category": "graphics",
-            "stars": 5580,
+            "stars": 5583,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Python",
@@ -2731,9 +2731,9 @@
                 "cross"
             ],
             "category": "graphics",
-            "stars": 10176,
+            "stars": 10180,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://invent.kde.org/graphics/krita"
@@ -2747,7 +2747,7 @@
                 "cross"
             ],
             "category": "image-processing",
-            "stars": 47920,
+            "stars": 47951,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "TypeScript",
@@ -2763,7 +2763,7 @@
                 "cross"
             ],
             "category": "image-processing",
-            "stars": 5964,
+            "stars": 5968,
             "flags": [],
             "last_commit": "07/31/2026",
             "language": "Python",
@@ -2781,7 +2781,7 @@
                 "cross"
             ],
             "category": "media-downloader",
-            "stars": 183520,
+            "stars": 183716,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Python",
@@ -2797,7 +2797,7 @@
                 "cross"
             ],
             "category": "media-downloader",
-            "stars": 15874,
+            "stars": 15884,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "C#",
@@ -2813,7 +2813,7 @@
                 "web-cloud"
             ],
             "category": "media-downloader",
-            "stars": 42032,
+            "stars": 42049,
             "flags": [],
             "last_commit": "04/06/2026",
             "language": "Svelte",
@@ -2829,9 +2829,9 @@
                 "cross"
             ],
             "category": "screen-recording",
-            "stars": 74778,
+            "stars": 74816,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/11/2026",
             "language": "C",
             "license": "GPL-2.0",
             "homepage_url": "https://obsproject.com"
@@ -2845,9 +2845,9 @@
                 "windows"
             ],
             "category": "screen-recording",
-            "stars": 39048,
+            "stars": 39066,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "GPL-3.0",
             "homepage_url": "https://getsharex.com"
@@ -2861,7 +2861,7 @@
                 "cross"
             ],
             "category": "screen-recording",
-            "stars": 20579,
+            "stars": 20643,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -2877,7 +2877,7 @@
                 "cross"
             ],
             "category": "screen-recording",
-            "stars": 30583,
+            "stars": 30596,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C++",
@@ -2893,9 +2893,9 @@
                 "cross"
             ],
             "category": "video-editing",
-            "stars": 5443,
+            "stars": 5451,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://invent.kde.org/multimedia/kdenlive"
@@ -2909,9 +2909,9 @@
                 "cross"
             ],
             "category": "video-editing",
-            "stars": 14885,
+            "stars": 14887,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://www.shotcut.org"
@@ -2925,7 +2925,7 @@
                 "cross"
             ],
             "category": "video-editing",
-            "stars": 9113,
+            "stars": 9112,
             "flags": [],
             "last_commit": "12/05/2024",
             "language": "C++",
@@ -2941,7 +2941,7 @@
                 "cross"
             ],
             "category": "video-editing",
-            "stars": 42774,
+            "stars": 42812,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "TypeScript",
@@ -2957,7 +2957,7 @@
                 "cross"
             ],
             "category": "video-editing",
-            "stars": 5472,
+            "stars": 5473,
             "flags": [],
             "last_commit": "07/24/2026",
             "language": "C++",
@@ -2973,9 +2973,9 @@
                 "cross"
             ],
             "category": "video-player",
-            "stars": 36462,
+            "stars": 36483,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C",
             "license": "NOASSERTION",
             "homepage_url": "https://mpv.io"
@@ -2989,9 +2989,9 @@
                 "macos"
             ],
             "category": "video-player",
-            "stars": 45883,
+            "stars": 45897,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "GPL-3.0",
             "homepage_url": "https://iina.io"
@@ -3005,9 +3005,9 @@
                 "cross"
             ],
             "category": "video-player",
-            "stars": 19271,
+            "stars": 19285,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C",
             "license": "GPL-2.0",
             "homepage_url": "http://www.videolan.org/vlc"
@@ -3021,7 +3021,7 @@
                 "cross"
             ],
             "category": "video-transcoder",
-            "stars": 23966,
+            "stars": 23977,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C",
@@ -3037,9 +3037,9 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 12206,
+            "stars": 12218,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://docs.seerr.dev"
@@ -3054,9 +3054,9 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 2939,
+            "stars": 2942,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "GPL-2.0",
             "homepage_url": "https://autobrr.com/introduction"
@@ -3089,7 +3089,7 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 15025,
+            "stars": 15035,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "C#",
@@ -3106,7 +3106,7 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 6993,
+            "stars": 7003,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "C#",
@@ -3123,7 +3123,7 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 14134,
+            "stars": 14138,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "C#",
@@ -3157,7 +3157,7 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 5536,
+            "stars": 5539,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C#",
@@ -3174,9 +3174,9 @@
                 "selfhost"
             ],
             "category": "arr",
-            "stars": 4194,
+            "stars": 4196,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://www.bazarr.media"
@@ -3190,9 +3190,9 @@
                 "linux"
             ],
             "category": "dashboard",
-            "stars": 14849,
+            "stars": 14860,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "LGPL-2.1",
             "homepage_url": "http://www.cockpit-project.org/"
@@ -3206,7 +3206,7 @@
                 "selfhost"
             ],
             "category": "dashboard",
-            "stars": 36254,
+            "stars": 36287,
             "flags": [],
             "last_commit": "05/30/2026",
             "language": "Go",
@@ -3222,7 +3222,7 @@
                 "selfhost"
             ],
             "category": "dashboard",
-            "stars": 26153,
+            "stars": 26156,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Vue",
@@ -3238,9 +3238,9 @@
                 "selfhost"
             ],
             "category": "dashboard",
-            "stars": 31929,
+            "stars": 31941,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "JavaScript",
             "license": "GPL-3.0",
             "homepage_url": "https://gethomepage.dev"
@@ -3270,7 +3270,7 @@
                 "selfhost"
             ],
             "category": "dashboard",
-            "stars": 9293,
+            "stars": 9295,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "PHP",
@@ -3286,7 +3286,7 @@
                 "selfhost"
             ],
             "category": "dashboard",
-            "stars": 11538,
+            "stars": 11545,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Vue",
@@ -3303,7 +3303,7 @@
                 "selfhost"
             ],
             "category": "home-automation",
-            "stars": 89816,
+            "stars": 89844,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Python",
@@ -3337,7 +3337,7 @@
             "category": "home-automation",
             "stars": 3099,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "Apache-2.0",
             "homepage_url": "https://gladysassistant.com"
@@ -3351,9 +3351,9 @@
                 "selfhost"
             ],
             "category": "home-automation",
-            "stars": 11515,
+            "stars": 11522,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://esphome.io/"
@@ -3367,7 +3367,7 @@
                 "selfhost"
             ],
             "category": "home-server",
-            "stars": 9600,
+            "stars": 9602,
             "flags": [],
             "last_commit": "07/22/2026",
             "language": "TypeScript",
@@ -3383,7 +3383,7 @@
                 "linux"
             ],
             "category": "home-server",
-            "stars": 15123,
+            "stars": 15125,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "TypeScript",
@@ -3399,7 +3399,7 @@
                 "linux"
             ],
             "category": "home-server",
-            "stars": 37014,
+            "stars": 37025,
             "flags": [],
             "last_commit": "08/06/2025",
             "language": "Go",
@@ -3415,7 +3415,7 @@
                 "selfhost"
             ],
             "category": "home-server",
-            "stars": 6113,
+            "stars": 6114,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "JavaScript",
@@ -3424,7 +3424,7 @@
         },
         {
             "name": "Sandstorm",
-            "description": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.",
+            "description": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI",
             "repo_url": "https://github.com/sandstorm-io/sandstorm",
             "tags": [],
             "platforms": [
@@ -3447,9 +3447,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 110081,
+            "stars": 110151,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://immich.app"
@@ -3463,9 +3463,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 40051,
+            "stars": 40053,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "NOASSERTION",
             "homepage_url": "https://www.photoprism.app"
@@ -3479,9 +3479,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 55585,
+            "stars": 55631,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/11/2026",
             "language": "C#",
             "license": "GPL-2.0",
             "homepage_url": "https://jellyfin.org"
@@ -3495,9 +3495,9 @@
                 "web-cloud"
             ],
             "category": "media-management",
-            "stars": 28231,
+            "stars": 28253,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Dart",
             "license": "AGPL-3.0",
             "homepage_url": "https://ente.com"
@@ -3512,9 +3512,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 21072,
+            "stars": 21077,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://kodi.tv/"
@@ -3530,7 +3530,7 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 13922,
+            "stars": 13937,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "JavaScript",
@@ -3546,9 +3546,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 3819,
+            "stars": 3822,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Vue",
             "license": "AGPL-3.0",
             "homepage_url": "https://memories.gallery"
@@ -3578,9 +3578,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 8021,
+            "stars": 8022,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://docs.librephotos.com/"
@@ -3594,9 +3594,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 11443,
+            "stars": 11447,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "GPL-3.0",
             "homepage_url": "http://www.kavitareader.com"
@@ -3610,9 +3610,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 3837,
+            "stars": 3838,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "GPL-2.0",
             "homepage_url": "https://piwigo.org"
@@ -3626,7 +3626,7 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 17832,
+            "stars": 17837,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Fluent",
@@ -3644,7 +3644,7 @@
             "category": "media-management",
             "stars": 4257,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "PHP",
             "license": "MIT",
             "homepage_url": "https://lycheeorg.dev"
@@ -3658,7 +3658,7 @@
                 "selfhost"
             ],
             "category": "surveillance",
-            "stars": 5844,
+            "stars": 5845,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "TypeScript",
@@ -3674,9 +3674,9 @@
                 "selfhost"
             ],
             "category": "surveillance",
-            "stars": 34948,
+            "stars": 34984,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://frigate.video"
@@ -3690,9 +3690,9 @@
                 "selfhost"
             ],
             "category": "surveillance",
-            "stars": 5901,
+            "stars": 5905,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "GPL-2.0",
             "homepage_url": "http://www.zoneminder.com/"
@@ -3706,9 +3706,9 @@
                 "windows"
             ],
             "category": "windows",
-            "stars": 25448,
+            "stars": 25463,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "MIT",
             "homepage_url": "https://devolutions.net/unigetui/"
@@ -3722,7 +3722,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 10287,
+            "stars": 10299,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Swift",
@@ -3740,7 +3740,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 29208,
+            "stars": 29231,
             "flags": [],
             "last_commit": "09/20/2025",
             "language": "Swift",
@@ -3756,7 +3756,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 4600,
+            "stars": 4602,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Swift",
@@ -3772,7 +3772,7 @@
                 "cross"
             ],
             "category": "macos",
-            "stars": 6912,
+            "stars": 6916,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Swift",
@@ -3788,7 +3788,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 6815,
+            "stars": 6817,
             "flags": [],
             "last_commit": "05/21/2026",
             "language": "Objective-C",
@@ -3804,7 +3804,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 16149,
+            "stars": 16161,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Swift",
@@ -3820,7 +3820,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 12187,
+            "stars": 12190,
             "flags": [],
             "last_commit": "06/04/2026",
             "language": "C",
@@ -3836,7 +3836,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 4383,
+            "stars": 4384,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Swift",
@@ -3852,7 +3852,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 5650,
+            "stars": 5652,
             "flags": [],
             "last_commit": "07/14/2026",
             "language": "Swift",
@@ -3868,9 +3868,9 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 6631,
+            "stars": 6644,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "MIT",
             "homepage_url": "https://linearmouse.app"
@@ -3884,9 +3884,9 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 5873,
+            "stars": 5875,
             "flags": [],
-            "last_commit": "07/31/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "MIT",
             "homepage_url": "https://onlyswitch.click/"
@@ -3900,7 +3900,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 5296,
+            "stars": 5295,
             "flags": [],
             "last_commit": "07/27/2026",
             "language": "Swift",
@@ -3916,7 +3916,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 3869,
+            "stars": 3871,
             "flags": [],
             "last_commit": "07/26/2026",
             "language": "Swift",
@@ -3934,7 +3934,7 @@
             "category": "linux",
             "stars": 1741,
             "flags": [],
-            "last_commit": "06/16/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "GPL-3.0",
             "homepage_url": ""
@@ -3950,7 +3950,7 @@
             "category": "linux",
             "stars": 1351,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "C",
             "license": "GPL-3.0",
             "homepage_url": "https://mattjakeman.com/apps/extension-manager"
@@ -3964,7 +3964,7 @@
                 "n/a"
             ],
             "category": "operating-system",
-            "stars": 43016,
+            "stars": 43029,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "TypeScript",
@@ -3980,7 +3980,7 @@
                 "n/a"
             ],
             "category": "operating-system",
-            "stars": 11747,
+            "stars": 11751,
             "flags": [],
             "last_commit": "07/10/2026",
             "language": "TypeScript",
@@ -3996,7 +3996,7 @@
                 "n/a"
             ],
             "category": "operating-system",
-            "stars": 6896,
+            "stars": 6897,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "PHP",
@@ -4012,7 +4012,7 @@
                 "n/a"
             ],
             "category": "operating-system",
-            "stars": 2962,
+            "stars": 2963,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Python",
@@ -4046,7 +4046,7 @@
                 "selfhost"
             ],
             "category": "bookmark-manager",
-            "stars": 19418,
+            "stars": 19428,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "TypeScript",
@@ -4062,7 +4062,7 @@
                 "selfhost"
             ],
             "category": "bookmark-manager",
-            "stars": 11026,
+            "stars": 11028,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Python",
@@ -4078,7 +4078,7 @@
                 "selfhost"
             ],
             "category": "bookmark-manager",
-            "stars": 28220,
+            "stars": 28233,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "TypeScript",
@@ -4110,9 +4110,9 @@
                 "selfhost"
             ],
             "category": "bookmark-manager",
-            "stars": 12889,
+            "stars": 12891,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "MIT",
             "homepage_url": "https://wallabag.org"
@@ -4131,7 +4131,7 @@
             "category": "document-management",
             "stars": 2290,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Elm",
             "license": "AGPL-3.0",
             "homepage_url": "https://docspell.org"
@@ -4145,9 +4145,9 @@
                 "selfhost"
             ],
             "category": "document-management",
-            "stars": 44125,
+            "stars": 44149,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "http://docs.paperless-ngx.com/"
@@ -4161,7 +4161,7 @@
                 "selfhost"
             ],
             "category": "document-management",
-            "stars": 5226,
+            "stars": 5229,
             "flags": [],
             "last_commit": "07/24/2026",
             "language": "TypeScript",
@@ -4177,7 +4177,7 @@
                 "selfhost"
             ],
             "category": "calendar",
-            "stars": 47381,
+            "stars": 47406,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "TypeScript",
@@ -4195,9 +4195,9 @@
                 "selfhost"
             ],
             "category": "document-modifier",
-            "stars": 89210,
+            "stars": 89285,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Java",
             "license": "NOASSERTION",
             "homepage_url": "https://stirling.com"
@@ -4211,7 +4211,7 @@
                 "selfhost"
             ],
             "category": "document-modifier",
-            "stars": 18227,
+            "stars": 18234,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "Ruby",
@@ -4229,7 +4229,7 @@
                 "cross"
             ],
             "category": "document-modifier",
-            "stars": 34394,
+            "stars": 34408,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Python",
@@ -4246,9 +4246,9 @@
                 "web-cloud"
             ],
             "category": "document-modifier",
-            "stars": 14314,
+            "stars": 14325,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://documenso.com"
@@ -4263,9 +4263,9 @@
                 "web-cloud"
             ],
             "category": "document-modifier",
-            "stars": 6788,
+            "stars": 6799,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "NOASSERTION",
             "homepage_url": "https://www.opensignlabs.com"
@@ -4279,7 +4279,7 @@
                 "selfhost"
             ],
             "category": "finance",
-            "stars": 54340,
+            "stars": 54336,
             "flags": [],
             "last_commit": "07/24/2025",
             "language": "Ruby",
@@ -4296,9 +4296,9 @@
                 "cross"
             ],
             "category": "finance",
-            "stars": 28050,
+            "stars": 28074,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://actualbudget.org"
@@ -4312,9 +4312,9 @@
                 "selfhost"
             ],
             "category": "finance",
-            "stars": 9101,
+            "stars": 9103,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://Ghostfol.io"
@@ -4328,7 +4328,7 @@
                 "selfhost"
             ],
             "category": "finance",
-            "stars": 8334,
+            "stars": 8335,
             "flags": [],
             "last_commit": "07/19/2026",
             "language": "PHP",
@@ -4344,9 +4344,9 @@
                 "selfhost"
             ],
             "category": "finance",
-            "stars": 24268,
+            "stars": 24279,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "AGPL-3.0",
             "homepage_url": "https://firefly-iii.org/"
@@ -4360,9 +4360,9 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 44364,
+            "stars": 44382,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Clojure",
             "license": "AGPL-3.0",
             "homepage_url": "https://logseq.com"
@@ -4376,9 +4376,9 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 8610,
+            "stars": 8615,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://anytype.io"
@@ -4394,7 +4394,7 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 75137,
+            "stars": 75172,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Dart",
@@ -4410,7 +4410,7 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 71363,
+            "stars": 71394,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "TypeScript",
@@ -4426,9 +4426,9 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 40050,
+            "stars": 40071,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://www.getoutline.com"
@@ -4442,7 +4442,7 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 45689,
+            "stars": 45708,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "TypeScript",
@@ -4458,9 +4458,9 @@
                 "cross"
             ],
             "category": "knowledge-base",
-            "stars": 29297,
+            "stars": 29316,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://fastgpt.io"
@@ -4474,7 +4474,7 @@
                 "vscode"
             ],
             "category": "knowledge-base",
-            "stars": 17336,
+            "stars": 17340,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -4491,9 +4491,9 @@
                 "web-cloud"
             ],
             "category": "project-management",
-            "stars": 55754,
+            "stars": 55789,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "http://plane.so"
@@ -4508,7 +4508,7 @@
                 "selfhost"
             ],
             "category": "project-management",
-            "stars": 26381,
+            "stars": 26386,
             "flags": [],
             "last_commit": "05/18/2026",
             "language": "TypeScript",
@@ -4525,7 +4525,7 @@
                 "web-cloud"
             ],
             "category": "project-management",
-            "stars": 27279,
+            "stars": 27292,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "TypeScript",
@@ -4534,16 +4534,16 @@
         },
         {
             "name": "OpenProject",
-            "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. \u2b50Star us on GitHub",
+            "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. \u2b50 Star us on GitHub",
             "repo_url": "https://github.com/opf/openproject",
             "tags": [],
             "platforms": [
                 "selfhost"
             ],
             "category": "project-management",
-            "stars": 15812,
+            "stars": 15818,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Ruby",
             "license": "GPL-3.0",
             "homepage_url": "https://www.openproject.org"
@@ -4557,9 +4557,9 @@
                 "selfhost"
             ],
             "category": "project-management",
-            "stars": 11287,
+            "stars": 11295,
             "flags": [],
-            "last_commit": "08/05/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "AGPL-3.0",
             "homepage_url": "https://leantime.io"
@@ -4573,9 +4573,9 @@
                 "cross"
             ],
             "category": "task-management",
-            "stars": 21225,
+            "stars": 21252,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "http://super-productivity.com?ref=github"
@@ -4591,9 +4591,9 @@
                 "selfhost"
             ],
             "category": "task-management",
-            "stars": 12326,
+            "stars": 12327,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "NOASSERTION",
             "homepage_url": "https://planka.app"
@@ -4608,9 +4608,9 @@
                 "web-cloud"
             ],
             "category": "time-management",
-            "stars": 8847,
+            "stars": 8845,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "AGPL-3.0",
             "homepage_url": "https://www.solidtime.io"
@@ -4625,7 +4625,7 @@
                 "android"
             ],
             "category": "time-management",
-            "stars": 18537,
+            "stars": 18548,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Python",
@@ -4641,7 +4641,7 @@
                 "selfhost"
             ],
             "category": "ad-blocker",
-            "stars": 6847,
+            "stars": 6850,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Go",
@@ -4661,9 +4661,9 @@
                 "firefox"
             ],
             "category": "ad-blocker",
-            "stars": 36028,
+            "stars": 36053,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://adguard.com/adguard-home/overview.html"
@@ -4677,7 +4677,7 @@
                 "selfhost"
             ],
             "category": "ad-blocker",
-            "stars": 60275,
+            "stars": 60295,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Shell",
@@ -4694,7 +4694,7 @@
                 "selfhost"
             ],
             "category": "antivirus",
-            "stars": 7107,
+            "stars": 7113,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "C",
@@ -4710,7 +4710,7 @@
                 "selfhost"
             ],
             "category": "authentication",
-            "stars": 4093,
+            "stars": 4096,
             "flags": [],
             "last_commit": "07/12/2026",
             "language": "PHP",
@@ -4726,9 +4726,9 @@
                 "selfhost"
             ],
             "category": "authentication",
-            "stars": 28523,
+            "stars": 28532,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Go",
             "license": "Apache-2.0",
             "homepage_url": "https://www.authelia.com"
@@ -4742,9 +4742,9 @@
                 "selfhost"
             ],
             "category": "authentication",
-            "stars": 34987,
+            "stars": 35021,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Go",
             "license": "BSD-3-Clause",
             "homepage_url": "https://tailscale.com"
@@ -4758,7 +4758,7 @@
                 "android"
             ],
             "category": "authentication",
-            "stars": 12877,
+            "stars": 12881,
             "flags": [],
             "last_commit": "07/16/2026",
             "language": "Java",
@@ -4774,9 +4774,9 @@
                 "selfhost"
             ],
             "category": "firewall",
-            "stars": 10788,
+            "stars": 10793,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "AGPL-3.0",
             "homepage_url": "https://www.bunkerweb.io"
@@ -4790,7 +4790,7 @@
                 "selfhost"
             ],
             "category": "firewall",
-            "stars": 22326,
+            "stars": 22339,
             "flags": [],
             "last_commit": "07/31/2026",
             "language": "Go",
@@ -4811,11 +4811,11 @@
                 "firefox"
             ],
             "category": "password-manager",
-            "stars": 19799,
+            "stars": 19812,
             "flags": [
                 "custom-description"
             ],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "NOASSERTION",
             "homepage_url": "https://bitwarden.com"
@@ -4829,9 +4829,9 @@
                 "cross"
             ],
             "category": "password-manager",
-            "stars": 28323,
+            "stars": 28335,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "NOASSERTION",
             "homepage_url": "https://keepassxc.org/"
@@ -4845,7 +4845,7 @@
                 "selfhost"
             ],
             "category": "password-manager",
-            "stars": 65170,
+            "stars": 65227,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Rust",
@@ -4866,7 +4866,7 @@
                 "firefox"
             ],
             "category": "password-manager",
-            "stars": 6051,
+            "stars": 6050,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "TypeScript",
@@ -4887,7 +4887,7 @@
                 "firefox"
             ],
             "category": "password-manager",
-            "stars": 6062,
+            "stars": 6065,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "PHP",
@@ -4905,9 +4905,9 @@
                 "cross"
             ],
             "category": "vpn",
-            "stars": 14393,
+            "stars": 14402,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://amnezia.org"
@@ -4921,9 +4921,9 @@
                 "cross"
             ],
             "category": "vpn",
-            "stars": 28203,
+            "stars": 28235,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "NOASSERTION",
             "homepage_url": "https://netbird.io"
@@ -4939,9 +4939,9 @@
                 "cross"
             ],
             "category": "vpn",
-            "stars": 3887,
+            "stars": 3888,
             "flags": [],
-            "last_commit": "08/04/2026",
+            "last_commit": "08/10/2026",
             "language": "Kotlin",
             "license": "GPL-3.0",
             "homepage_url": "https://protonvpn.com/download-android"
@@ -4957,7 +4957,7 @@
                 "cross"
             ],
             "category": "shell",
-            "stars": 33995,
+            "stars": 34003,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Rust",
@@ -4977,7 +4977,7 @@
             "category": "shell",
             "stars": 9595,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "http://xon.sh"
@@ -4993,7 +4993,7 @@
                 "cross"
             ],
             "category": "shell",
-            "stars": 40234,
+            "stars": 40240,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Rust",
@@ -5009,9 +5009,9 @@
                 "cross"
             ],
             "category": "terminal-emulator",
-            "stars": 34324,
+            "stars": 34346,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://sw.kovidgoyal.net/kitty/"
@@ -5025,7 +5025,7 @@
                 "cross"
             ],
             "category": "terminal-emulator",
-            "stars": 28279,
+            "stars": 28294,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Rust",
@@ -5041,7 +5041,7 @@
                 "cross"
             ],
             "category": "terminal-emulator",
-            "stars": 21980,
+            "stars": 21987,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -5057,7 +5057,7 @@
                 "cross"
             ],
             "category": "terminal-emulator",
-            "stars": 65298,
+            "stars": 65317,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "Rust",
@@ -5073,9 +5073,9 @@
                 "cross"
             ],
             "category": "terminal-emulator",
-            "stars": 73838,
+            "stars": 73856,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://tabby.sh"
@@ -5089,9 +5089,9 @@
                 "cross"
             ],
             "category": "terminal-emulator",
-            "stars": 7292,
+            "stars": 7307,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://rioterm.com"
@@ -5107,9 +5107,9 @@
                 "cross"
             ],
             "category": "terminal-multiplexer",
-            "stars": 34795,
+            "stars": 34817,
             "flags": [],
-            "last_commit": "08/05/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://zellij.dev"
@@ -5127,7 +5127,7 @@
             "category": "terminal-multiplexer",
             "stars": 48526,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C",
             "license": "ISC",
             "homepage_url": ""
@@ -5143,9 +5143,9 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 31084,
+            "stars": 31106,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://atuin.sh"
@@ -5161,9 +5161,9 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 189093,
+            "stars": 189090,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Shell",
             "license": "MIT",
             "homepage_url": "https://ohmyz.sh"
@@ -5179,7 +5179,7 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 7772,
+            "stars": 7774,
             "flags": [],
             "last_commit": "04/14/2026",
             "language": "Rust",
@@ -5197,9 +5197,9 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 38576,
+            "stars": 38591,
             "flags": [],
-            "last_commit": "08/04/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://crates.io/crates/zoxide"
@@ -5215,7 +5215,7 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 35957,
+            "stars": 35964,
             "flags": [],
             "last_commit": "06/24/2025",
             "language": "Shell",
@@ -5233,7 +5233,7 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 12234,
+            "stars": 12235,
             "flags": [],
             "last_commit": "07/02/2026",
             "language": "Python",
@@ -5250,9 +5250,9 @@
                 "web-cloud"
             ],
             "category": "document-editor",
-            "stars": 18483,
+            "stars": 18486,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://etherpad.org"
@@ -5266,9 +5266,9 @@
                 "cross"
             ],
             "category": "markdown-editor",
-            "stars": 13367,
+            "stars": 13371,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://www.zettlr.com"
@@ -5282,7 +5282,7 @@
                 "selfhost"
             ],
             "category": "markdown-editor",
-            "stars": 7360,
+            "stars": 7362,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "TypeScript",
@@ -5298,9 +5298,9 @@
                 "cross"
             ],
             "category": "note-taking",
-            "stars": 55881,
+            "stars": 55899,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://joplinapp.org"
@@ -5314,9 +5314,9 @@
                 "cross"
             ],
             "category": "note-taking",
-            "stars": 14392,
+            "stars": 14393,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": "https://notesnook.com/"
@@ -5332,9 +5332,9 @@
                 "android"
             ],
             "category": "note-taking",
-            "stars": 6578,
+            "stars": 6580,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://standardnotes.com"
@@ -5366,7 +5366,7 @@
                 "plugin"
             ],
             "category": "note-taking",
-            "stars": 8066,
+            "stars": 8071,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "TypeScript",
@@ -5382,9 +5382,9 @@
                 "selfhost"
             ],
             "category": "note-taking",
-            "stars": 62133,
+            "stars": 62152,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://usememos.com"
@@ -5398,7 +5398,7 @@
                 "selfhost"
             ],
             "category": "note-taking",
-            "stars": 10852,
+            "stars": 10857,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "TypeScript",
@@ -5414,7 +5414,7 @@
                 "cross"
             ],
             "category": "note-taking",
-            "stars": 11523,
+            "stars": 11529,
             "flags": [],
             "last_commit": "07/28/2026",
             "language": "Rust",
@@ -5430,7 +5430,7 @@
                 "cross"
             ],
             "category": "note-taking",
-            "stars": 5809,
+            "stars": 5812,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -5446,7 +5446,7 @@
                 "cross"
             ],
             "category": "note-taking",
-            "stars": 8572,
+            "stars": 8573,
             "flags": [],
             "last_commit": "05/13/2025",
             "language": "JavaScript",
@@ -5462,9 +5462,9 @@
                 "cross"
             ],
             "category": "note-taking",
-            "stars": 12887,
+            "stars": 12888,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "LGPL-3.0",
             "homepage_url": "https://docs.vnote.fun"
@@ -5482,7 +5482,7 @@
             "category": "note-taking",
             "stars": 8349,
             "flags": [],
-            "last_commit": "07/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Shell",
             "license": "AGPL-3.0",
             "homepage_url": "https://xwmx.github.io/nb"
@@ -5500,7 +5500,7 @@
             "category": "note-taking",
             "stars": 7288,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://jrnl.sh"
@@ -5514,7 +5514,7 @@
                 "cross"
             ],
             "category": "office-suite",
-            "stars": 5230,
+            "stars": 5231,
             "flags": [],
             "last_commit": "05/21/2026",
             "language": null,
@@ -5530,9 +5530,9 @@
                 "cross"
             ],
             "category": "office-suite",
-            "stars": 4208,
+            "stars": 4211,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-3.0",
             "homepage_url": "https://www.libreoffice.org/"
@@ -5548,7 +5548,7 @@
             "category": "office-suite",
             "stars": 7838,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://cryptpad.org"
@@ -5562,9 +5562,9 @@
                 "vscode"
             ],
             "category": "proofreading",
-            "stars": 14304,
+            "stars": 14337,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": "https://writewithharper.com"
@@ -5579,9 +5579,9 @@
                 "web-cloud"
             ],
             "category": "proofreading",
-            "stars": 14780,
+            "stars": 14785,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Java",
             "license": "LGPL-2.1",
             "homepage_url": "https://languagetool.org"
@@ -5595,7 +5595,7 @@
                 "cross"
             ],
             "category": "proofreading",
-            "stars": 2397,
+            "stars": 2399,
             "flags": [],
             "last_commit": "06/14/2026",
             "language": "Swift",
@@ -5612,9 +5612,9 @@
                 "web-cloud"
             ],
             "category": "spreadsheet",
-            "stars": 11433,
+            "stars": 11438,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://www.getgrist.com"
@@ -5644,9 +5644,9 @@
                 "macos"
             ],
             "category": "text-editor",
-            "stars": 8352,
+            "stars": 8354,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "NOASSERTION",
             "homepage_url": "https://coteditor.com"
@@ -5662,9 +5662,9 @@
                 "cross"
             ],
             "category": "text-editor",
-            "stars": 29310,
+            "stars": 29312,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://micro-editor.github.io"
@@ -5678,7 +5678,7 @@
                 "windows"
             ],
             "category": "text-editor",
-            "stars": 10207,
+            "stars": 10208,
             "flags": [],
             "last_commit": "04/20/2026",
             "language": "C#",
@@ -5696,9 +5696,9 @@
                 "cross"
             ],
             "category": "text-editor",
-            "stars": 11017,
+            "stars": 11019,
             "flags": [],
-            "last_commit": "08/03/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "Unlicense",
             "homepage_url": "http://kakoune.org"
@@ -5712,7 +5712,7 @@
                 "cross"
             ],
             "category": "text-editor",
-            "stars": 6312,
+            "stars": 6314,
             "flags": [],
             "last_commit": "03/11/2026",
             "language": "Lua",
@@ -5728,9 +5728,9 @@
                 "cross"
             ],
             "category": "text-editor",
-            "stars": 5142,
+            "stars": 5143,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
             "homepage_url": "http://www.gnu.org/software/emacs/"
@@ -5744,7 +5744,7 @@
                 "cross"
             ],
             "category": "text-editor",
-            "stars": 14439,
+            "stars": 14442,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C++",
@@ -5760,9 +5760,9 @@
                 "selfhost"
             ],
             "category": "wiki",
-            "stars": 5134,
+            "stars": 5136,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "NOASSERTION",
             "homepage_url": "https://www.mediawiki.org"
@@ -5776,9 +5776,9 @@
                 "selfhost"
             ],
             "category": "wiki",
-            "stars": 28732,
+            "stars": 28735,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Vue",
             "license": "AGPL-3.0",
             "homepage_url": "https://js.wiki"
@@ -5794,7 +5794,7 @@
             "category": "wiki",
             "stars": 18980,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "PHP",
             "license": "MIT",
             "homepage_url": "https://codeberg.org/bookstack/bookstack"
@@ -5810,9 +5810,9 @@
                 "cross"
             ],
             "category": "automation",
-            "stars": 70276,
+            "stars": 70295,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://www.ansible.com/"
@@ -5826,7 +5826,7 @@
                 "macos"
             ],
             "category": "automation",
-            "stars": 15904,
+            "stars": 15908,
             "flags": [],
             "last_commit": "07/08/2026",
             "language": "Objective-C",
@@ -5858,9 +5858,9 @@
                 "cross"
             ],
             "category": "automation",
-            "stars": 13977,
+            "stars": 13983,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://semaphoreui.com"
@@ -5877,7 +5877,7 @@
                 "selfhost"
             ],
             "category": "automation",
-            "stars": 5796,
+            "stars": 5794,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "JavaScript",
@@ -5893,7 +5893,7 @@
                 "macos"
             ],
             "category": "cleaner",
-            "stars": 14258,
+            "stars": 14275,
             "flags": [],
             "last_commit": "06/22/2026",
             "language": "Swift",
@@ -5910,9 +5910,9 @@
                 "linux"
             ],
             "category": "cleaner",
-            "stars": 6540,
+            "stars": 6545,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://www.bleachbit.org"
@@ -5926,9 +5926,9 @@
                 "macos"
             ],
             "category": "clipboard-manager",
-            "stars": 21088,
+            "stars": 21101,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "MIT",
             "homepage_url": "https://maccy.app"
@@ -5942,7 +5942,7 @@
                 "cross"
             ],
             "category": "clipboard-manager",
-            "stars": 5868,
+            "stars": 5869,
             "flags": [],
             "last_commit": "05/06/2026",
             "language": "C++",
@@ -5958,7 +5958,7 @@
                 "cross"
             ],
             "category": "clipboard-manager",
-            "stars": 12099,
+            "stars": 12107,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "C++",
@@ -5974,7 +5974,7 @@
                 "cross"
             ],
             "category": "containers",
-            "stars": 24029,
+            "stars": 24034,
             "flags": [],
             "last_commit": "04/25/2026",
             "language": "TypeScript",
@@ -5992,7 +5992,7 @@
                 "cross"
             ],
             "category": "containers",
-            "stars": 30301,
+            "stars": 30319,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Go",
@@ -6010,7 +6010,7 @@
                 "cross"
             ],
             "category": "dotfiles-manager",
-            "stars": 6382,
+            "stars": 6383,
             "flags": [],
             "last_commit": "04/13/2026",
             "language": "Python",
@@ -6026,7 +6026,7 @@
                 "cross"
             ],
             "category": "dotfiles-manager",
-            "stars": 21079,
+            "stars": 21096,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -6044,7 +6044,7 @@
                 "cross"
             ],
             "category": "file-manager",
-            "stars": 38739,
+            "stars": 38748,
             "flags": [],
             "last_commit": "07/29/2026",
             "language": "Rust",
@@ -6060,9 +6060,9 @@
                 "windows"
             ],
             "category": "file-manager",
-            "stars": 44582,
+            "stars": 44589,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "MIT",
             "homepage_url": "https://files.community"
@@ -6078,7 +6078,7 @@
                 "linux"
             ],
             "category": "file-manager",
-            "stars": 21774,
+            "stars": 21780,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "C",
@@ -6096,9 +6096,9 @@
                 "cross"
             ],
             "category": "file-manager",
-            "stars": 41192,
+            "stars": 41220,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://yazi-rs.github.io"
@@ -6116,7 +6116,7 @@
             "category": "file-manager",
             "stars": 17338,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://ranger.fm"
@@ -6130,9 +6130,9 @@
                 "cross"
             ],
             "category": "file-manager",
-            "stars": 14692,
+            "stars": 14698,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "MIT",
             "homepage_url": "https://electerm.org"
@@ -6148,9 +6148,9 @@
                 "cross"
             ],
             "category": "file-manager",
-            "stars": 9447,
+            "stars": 9449,
             "flags": [],
-            "last_commit": "08/02/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": ""
@@ -6164,7 +6164,7 @@
                 "cross"
             ],
             "category": "file-manager",
-            "stars": 22410,
+            "stars": 22426,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -6180,7 +6180,7 @@
                 "selfhost"
             ],
             "category": "file-manager",
-            "stars": 14454,
+            "stars": 14459,
             "flags": [],
             "last_commit": "07/27/2026",
             "language": "Go",
@@ -6196,7 +6196,7 @@
                 "selfhost"
             ],
             "category": "file-manager",
-            "stars": 3049,
+            "stars": 3050,
             "flags": [],
             "last_commit": "07/23/2026",
             "language": "PHP",
@@ -6212,7 +6212,7 @@
                 "selfhost"
             ],
             "category": "file-manager",
-            "stars": 35816,
+            "stars": 35830,
             "flags": [],
             "last_commit": "07/31/2026",
             "language": "Go",
@@ -6232,7 +6232,7 @@
             "category": "file-manager",
             "stars": 4798,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://xplr.dev"
@@ -6248,7 +6248,7 @@
                 "cross"
             ],
             "category": "file-sharing",
-            "stars": 87156,
+            "stars": 87231,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Dart",
@@ -6264,7 +6264,7 @@
                 "cross"
             ],
             "category": "file-sharing",
-            "stars": 7057,
+            "stars": 7058,
             "flags": [],
             "last_commit": "07/31/2026",
             "language": "Python",
@@ -6280,7 +6280,7 @@
                 "web-cloud"
             ],
             "category": "file-sharing",
-            "stars": 11143,
+            "stars": 11156,
             "flags": [],
             "last_commit": "04/22/2026",
             "language": "JavaScript",
@@ -6296,7 +6296,7 @@
                 "macos"
             ],
             "category": "keyboard-manager",
-            "stars": 22609,
+            "stars": 22617,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C++",
@@ -6312,7 +6312,7 @@
                 "cross"
             ],
             "category": "keyboard-manager",
-            "stars": 7728,
+            "stars": 7733,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Rust",
@@ -6360,9 +6360,9 @@
                 "macos"
             ],
             "category": "launcher",
-            "stars": 3044,
+            "stars": 3047,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": ""
@@ -6376,9 +6376,9 @@
                 "cross"
             ],
             "category": "launcher",
-            "stars": 6162,
+            "stars": 6166,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://kando.menu"
@@ -6410,7 +6410,7 @@
             "category": "launcher",
             "stars": 4498,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "NOASSERTION",
             "homepage_url": "https://ulauncher.io"
@@ -6424,7 +6424,7 @@
                 "cross"
             ],
             "category": "launcher",
-            "stars": 27197,
+            "stars": 27201,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Go",
@@ -6443,9 +6443,9 @@
                 "linux"
             ],
             "category": "package-manager",
-            "stars": 49118,
+            "stars": 49109,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Ruby",
             "license": "BSD-2-Clause",
             "homepage_url": "https://brew.sh"
@@ -6459,7 +6459,7 @@
                 "windows"
             ],
             "category": "package-manager",
-            "stars": 11484,
+            "stars": 11482,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "C#",
@@ -6475,9 +6475,9 @@
                 "cross"
             ],
             "category": "package-manager",
-            "stars": 17477,
+            "stars": 17486,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "LGPL-2.1",
             "homepage_url": "https://nixos.org/"
@@ -6491,7 +6491,7 @@
                 "cross"
             ],
             "category": "package-manager",
-            "stars": 5104,
+            "stars": 5106,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Python",
@@ -6507,9 +6507,9 @@
                 "cross"
             ],
             "category": "remote-desktop",
-            "stars": 119967,
+            "stars": 120039,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "AGPL-3.0",
             "homepage_url": "https://rustdesk.com"
@@ -6523,7 +6523,7 @@
                 "macos"
             ],
             "category": "system-monitoring",
-            "stars": 41059,
+            "stars": 41082,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Swift",
@@ -6539,9 +6539,9 @@
                 "linux"
             ],
             "category": "system-monitoring",
-            "stars": 2134,
+            "stars": 2135,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "GPL-2.0",
             "homepage_url": "https://extensions.gnome.org/extension/1460/vitals/"
@@ -6573,7 +6573,7 @@
                 "macos"
             ],
             "category": "system",
-            "stars": 19206,
+            "stars": 19213,
             "flags": [],
             "last_commit": "06/10/2026",
             "language": "C++",
@@ -6590,7 +6590,7 @@
                 "linux"
             ],
             "category": "tools",
-            "stars": 32589,
+            "stars": 32623,
             "flags": [],
             "last_commit": "07/29/2026",
             "language": "Fluent",
@@ -6606,7 +6606,7 @@
                 "cross"
             ],
             "category": "tools",
-            "stars": 34138,
+            "stars": 34141,
             "flags": [],
             "last_commit": "06/02/2026",
             "language": "TypeScript",
@@ -6622,7 +6622,7 @@
                 "macos"
             ],
             "category": "tools",
-            "stars": 33921,
+            "stars": 33932,
             "flags": [],
             "last_commit": "04/19/2026",
             "language": "Swift",
@@ -6638,9 +6638,9 @@
                 "cross"
             ],
             "category": "tools",
-            "stars": 4298,
+            "stars": 4301,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "GPL-2.0",
             "homepage_url": ""
@@ -6656,7 +6656,7 @@
                 "cross"
             ],
             "category": "tools",
-            "stars": 10604,
+            "stars": 10605,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "TypeScript",
@@ -6674,7 +6674,7 @@
                 "cross"
             ],
             "category": "tools",
-            "stars": 9796,
+            "stars": 9797,
             "flags": [],
             "last_commit": "03/25/2026",
             "language": "Rust",
@@ -6692,7 +6692,7 @@
                 "cross"
             ],
             "category": "tools",
-            "stars": 44022,
+            "stars": 44036,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Rust",
@@ -6708,7 +6708,7 @@
                 "macos"
             ],
             "category": "version-manager",
-            "stars": 8485,
+            "stars": 8487,
             "flags": [],
             "last_commit": "07/08/2026",
             "language": "Swift",
@@ -6726,7 +6726,7 @@
                 "cross"
             ],
             "category": "version-manager",
-            "stars": 16730,
+            "stars": 16729,
             "flags": [],
             "last_commit": "07/14/2026",
             "language": "Shell",
@@ -6746,7 +6746,7 @@
             "category": "version-manager",
             "stars": 45005,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Shell",
             "license": "MIT",
             "homepage_url": ""
@@ -6762,7 +6762,7 @@
                 "cross"
             ],
             "category": "version-manager",
-            "stars": 94388,
+            "stars": 94404,
             "flags": [],
             "last_commit": "07/24/2026",
             "language": "Shell",
@@ -6780,7 +6780,7 @@
                 "cross"
             ],
             "category": "version-manager",
-            "stars": 32204,
+            "stars": 32251,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Rust",
@@ -6798,7 +6798,7 @@
                 "cross"
             ],
             "category": "version-manager",
-            "stars": 25518,
+            "stars": 25520,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -6832,7 +6832,7 @@
                 "macos"
             ],
             "category": "virtual-machine",
-            "stars": 34949,
+            "stars": 34958,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "Swift",
@@ -6848,9 +6848,9 @@
                 "macos"
             ],
             "category": "virtual-machine",
-            "stars": 8453,
+            "stars": 8456,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "BSD-2-Clause",
             "homepage_url": ""
@@ -6865,9 +6865,9 @@
                 "linux"
             ],
             "category": "virtual-machine",
-            "stars": 21651,
+            "stars": 21658,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "Apache-2.0",
             "homepage_url": "https://lima-vm.io/"
@@ -6882,7 +6882,7 @@
                 "linux"
             ],
             "category": "virtual-machine",
-            "stars": 15346,
+            "stars": 15488,
             "flags": [],
             "last_commit": "07/28/2026",
             "language": "Shell",
@@ -6898,7 +6898,7 @@
                 "macos"
             ],
             "category": "window-management",
-            "stars": 29665,
+            "stars": 29675,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Swift",
@@ -6914,7 +6914,7 @@
                 "macos"
             ],
             "category": "window-management",
-            "stars": 11336,
+            "stars": 11345,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Swift",
@@ -6930,9 +6930,9 @@
                 "macos"
             ],
             "category": "window-management",
-            "stars": 22314,
+            "stars": 22337,
             "flags": [],
-            "last_commit": "07/16/2026",
+            "last_commit": "08/10/2026",
             "language": "Swift",
             "license": "MIT",
             "homepage_url": "https://nikitabobko.github.io/AeroSpace/guide"
@@ -6946,9 +6946,9 @@
                 "macos"
             ],
             "category": "window-management",
-            "stars": 16212,
+            "stars": 16213,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "Swift",
             "license": "MIT",
             "homepage_url": "https://ianyh.com/amethyst/"
@@ -6962,7 +6962,7 @@
                 "linux"
             ],
             "category": "other",
-            "stars": 63377,
+            "stars": 63382,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Python",
@@ -6978,7 +6978,7 @@
                 "selfhost"
             ],
             "category": "other",
-            "stars": 12943,
+            "stars": 12950,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "Python",
@@ -6995,7 +6995,7 @@
                 "selfhost"
             ],
             "category": "other",
-            "stars": 9369,
+            "stars": 9373,
             "flags": [],
             "last_commit": "07/21/2026",
             "language": "JavaScript",
@@ -7011,7 +7011,7 @@
                 "macos"
             ],
             "category": "uncategorized",
-            "stars": 15142,
+            "stars": 15141,
             "flags": [],
             "last_commit": "05/11/2025",
             "language": "Swift",
@@ -7027,9 +7027,9 @@
                 "cross"
             ],
             "category": "uncategorized",
-            "stars": 14393,
+            "stars": 14397,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Java",
             "license": "Apache-2.0",
             "homepage_url": "https://xpipe.io"
@@ -7043,7 +7043,7 @@
                 "macos"
             ],
             "category": "window-management",
-            "stars": 29434,
+            "stars": 29436,
             "flags": [],
             "last_commit": "06/14/2026",
             "language": "C",
@@ -7061,7 +7061,7 @@
             "category": "ide",
             "stars": 3059,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "",
             "homepage_url": ""
@@ -7075,7 +7075,7 @@
                 "selfhost"
             ],
             "category": "git-hosting",
-            "stars": 47725,
+            "stars": 47728,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Go",
@@ -7091,9 +7091,9 @@
                 "selfhost"
             ],
             "category": "git-hosting",
-            "stars": 57285,
+            "stars": 57305,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://gitea.com"
@@ -7108,9 +7108,9 @@
                 "web-cloud"
             ],
             "category": "git-hosting",
-            "stars": 24529,
+            "stars": 24530,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Ruby",
             "license": "NOASSERTION",
             "homepage_url": "https://about.gitlab.com/getting-help/"
@@ -7125,7 +7125,7 @@
                 "web-cloud"
             ],
             "category": "model-tools",
-            "stars": 15652,
+            "stars": 15656,
             "flags": [],
             "last_commit": "09/30/2025",
             "language": "Python",
@@ -7141,7 +7141,7 @@
                 "macos"
             ],
             "category": "macos",
-            "stars": 3975,
+            "stars": 3976,
             "flags": [],
             "last_commit": "04/05/2026",
             "language": "Objective-C",
@@ -7157,9 +7157,9 @@
                 "cross"
             ],
             "category": "audio-player",
-            "stars": 32960,
+            "stars": 32969,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": ""
@@ -7194,7 +7194,7 @@
                 "cross"
             ],
             "category": "git-client",
-            "stars": 81167,
+            "stars": 81203,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -7210,9 +7210,9 @@
                 "mobile"
             ],
             "category": "context",
-            "stars": 13146,
+            "stars": 13145,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Python",
             "license": "MIT",
             "homepage_url": "https://omi.me"
@@ -7228,7 +7228,7 @@
                 "cross"
             ],
             "category": "containers",
-            "stars": 52372,
+            "stars": 52380,
             "flags": [],
             "last_commit": "04/19/2026",
             "language": "Go",
@@ -7245,7 +7245,7 @@
                 "macos"
             ],
             "category": "assistant",
-            "stars": 28736,
+            "stars": 28861,
             "flags": [],
             "last_commit": "06/05/2026",
             "language": "Rust",
@@ -7261,9 +7261,9 @@
                 "android"
             ],
             "category": "uncategorized",
-            "stars": 28867,
+            "stars": 28892,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Lua",
             "license": "AGPL-3.0",
             "homepage_url": "http://koreader.rocks/"
@@ -7280,9 +7280,9 @@
                 "cross"
             ],
             "category": "code-assistant",
-            "stars": 104954,
+            "stars": 105157,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "Rust",
             "license": "Apache-2.0",
             "homepage_url": ""
@@ -7298,9 +7298,9 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 82471,
+            "stars": 82499,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "MIT",
             "homepage_url": "https://junegunn.github.io/fzf/"
@@ -7316,7 +7316,7 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 31691,
+            "stars": 31702,
             "flags": [],
             "last_commit": "08/02/2026",
             "language": "Rust",
@@ -7334,7 +7334,7 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 22886,
+            "stars": 22891,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Rust",
@@ -7350,7 +7350,7 @@
                 "n/a"
             ],
             "category": "uncategorized",
-            "stars": 35744,
+            "stars": 35745,
             "flags": [],
             "last_commit": "05/22/2026",
             "language": "Vim Script",
@@ -7366,9 +7366,9 @@
                 "selfhost"
             ],
             "category": "containers",
-            "stars": 38198,
+            "stars": 38212,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Zlib",
             "homepage_url": "https://www.portainer.io"
@@ -7382,9 +7382,9 @@
                 "selfhost"
             ],
             "category": "server-management",
-            "stars": 36470,
+            "stars": 36479,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "GPL-3.0",
             "homepage_url": "https://1panel.pro"
@@ -7401,9 +7401,9 @@
                 "web-cloud"
             ],
             "category": "wiki",
-            "stars": 21301,
+            "stars": 21316,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/11/2026",
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "homepage_url": "https://docmost.com"
@@ -7421,7 +7421,7 @@
                 "firefox"
             ],
             "category": "information-processing",
-            "stars": 15277,
+            "stars": 15285,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "Python",
@@ -7438,9 +7438,9 @@
                 "selfhost"
             ],
             "category": "manager",
-            "stars": 11373,
+            "stars": 11384,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C++",
             "license": "AGPL-3.0",
             "homepage_url": "https://github.com/LostRuins/koboldcpp/releases/latest"
@@ -7457,7 +7457,7 @@
                 "selfhost"
             ],
             "category": "model-tools",
-            "stars": 60627,
+            "stars": 60753,
             "flags": [],
             "last_commit": "07/22/2026",
             "language": "Python",
@@ -7473,9 +7473,9 @@
                 "cross"
             ],
             "category": "other",
-            "stars": 54414,
+            "stars": 54428,
             "flags": [],
-            "last_commit": "08/10/2026",
+            "last_commit": "08/11/2026",
             "language": "C++",
             "license": "GPL-2.0",
             "homepage_url": "https://imhex.werwolv.net/"
@@ -7489,7 +7489,7 @@
                 "linux"
             ],
             "category": "uncategorized",
-            "stars": 2012,
+            "stars": 2015,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "Python",
@@ -7505,7 +7505,7 @@
                 "linux"
             ],
             "category": "game-launcher",
-            "stars": 10141,
+            "stars": 10143,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Python",
@@ -7521,9 +7521,9 @@
                 "cross"
             ],
             "category": "containers",
-            "stars": 7904,
+            "stars": 7908,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://podman-desktop.io"
@@ -7537,7 +7537,7 @@
                 "linux"
             ],
             "category": "git-client",
-            "stars": 8014,
+            "stars": 8015,
             "flags": [],
             "last_commit": "05/19/2025",
             "language": "TypeScript",
@@ -7553,9 +7553,9 @@
                 "cross"
             ],
             "category": "game-launcher",
-            "stars": 16589,
+            "stars": 16596,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://hydralauncher.gg"
@@ -7573,7 +7573,7 @@
                 "web-cloud"
             ],
             "category": "diagrams",
-            "stars": 38635,
+            "stars": 38760,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "JavaScript",
@@ -7592,9 +7592,9 @@
                 "firefox"
             ],
             "category": "note-taking",
-            "stars": 14915,
+            "stars": 14922,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "NOASSERTION",
             "homepage_url": "https://www.zotero.org"
@@ -7608,9 +7608,9 @@
                 "cross"
             ],
             "category": "image-editing",
-            "stars": 17120,
+            "stars": 17135,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "C",
             "license": "NOASSERTION",
             "homepage_url": "https://imagemagick.org"
@@ -7624,9 +7624,9 @@
                 "cross"
             ],
             "category": "tools",
-            "stars": 45782,
+            "stars": 45802,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Haskell",
             "license": "GPL-2.0",
             "homepage_url": "https://pandoc.org"
@@ -7640,7 +7640,7 @@
                 "cross"
             ],
             "category": "system-monitoring",
-            "stars": 9251,
+            "stars": 9257,
             "flags": [],
             "last_commit": "03/30/2026",
             "language": "Svelte",
@@ -7657,9 +7657,9 @@
                 "web-cloud"
             ],
             "category": "automation",
-            "stars": 10231,
+            "stars": 10232,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "BSD-3-Clause",
             "homepage_url": "https://healthchecks.io"
@@ -7677,7 +7677,7 @@
                 "selfhost"
             ],
             "category": "system-monitoring",
-            "stars": 33277,
+            "stars": 33289,
             "flags": [],
             "last_commit": "08/08/2026",
             "language": "Python",
@@ -7713,7 +7713,7 @@
                 "cross"
             ],
             "category": "system-monitoring",
-            "stars": 7094,
+            "stars": 7098,
             "flags": [],
             "last_commit": "07/27/2026",
             "language": "Python",
@@ -7730,9 +7730,9 @@
                 "selfhost"
             ],
             "category": "media-management",
-            "stars": 6561,
+            "stars": 6562,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "GPL-3.0",
             "homepage_url": "https://tautulli.com"
@@ -7746,7 +7746,7 @@
                 "linux"
             ],
             "category": "system",
-            "stars": 7716,
+            "stars": 7715,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "Python",
@@ -7765,7 +7765,7 @@
                 "cross"
             ],
             "category": "system-monitoring",
-            "stars": 10900,
+            "stars": 10901,
             "flags": [],
             "last_commit": "05/06/2026",
             "language": "C",
@@ -7802,7 +7802,7 @@
                 "cross"
             ],
             "category": "agent",
-            "stars": 21061,
+            "stars": 21109,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "HTML",
@@ -7818,9 +7818,9 @@
                 "selfhost"
             ],
             "category": "containers",
-            "stars": 23880,
+            "stars": 23885,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Go",
             "license": "Apache-2.0",
             "homepage_url": "https://argo-cd.readthedocs.io"
@@ -7835,9 +7835,9 @@
                 "mobile"
             ],
             "category": "games",
-            "stars": 28556,
+            "stars": 28566,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Java",
             "license": "GPL-3.0",
             "homepage_url": "https://mindustrygame.github.io"
@@ -7853,7 +7853,7 @@
                 "cross"
             ],
             "category": "agent",
-            "stars": 108487,
+            "stars": 108654,
             "flags": [],
             "last_commit": "08/06/2026",
             "language": "Python",
@@ -7874,9 +7874,9 @@
                 "selfhost"
             ],
             "category": "password-manager",
-            "stars": 28631,
+            "stars": 28651,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "NOASSERTION",
             "homepage_url": "https://infisical.com"
@@ -7891,7 +7891,7 @@
                 "mobile"
             ],
             "category": "vpn",
-            "stars": 16993,
+            "stars": 17000,
             "flags": [],
             "last_commit": "08/03/2026",
             "language": "C++",
@@ -7908,7 +7908,7 @@
                 "selfhost"
             ],
             "category": "automation",
-            "stars": 199997,
+            "stars": 200136,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "TypeScript",
@@ -7926,9 +7926,9 @@
                 "cross"
             ],
             "category": "model-tools",
-            "stars": 11749,
+            "stars": 11748,
             "flags": [],
-            "last_commit": "08/03/2026",
+            "last_commit": "08/10/2026",
             "language": "Python",
             "license": "Apache-2.0",
             "homepage_url": "http://ludwig.ai"
@@ -7944,7 +7944,7 @@
                 "cross"
             ],
             "category": "git-client",
-            "stars": 22352,
+            "stars": 22363,
             "flags": [],
             "last_commit": "08/04/2026",
             "language": "Rust",
@@ -7962,7 +7962,7 @@
                 "cross"
             ],
             "category": "file-manager",
-            "stars": 12882,
+            "stars": 12884,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Rust",
@@ -7996,7 +7996,7 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 12011,
+            "stars": 12015,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Rust",
@@ -8012,9 +8012,9 @@
                 "cross"
             ],
             "category": "git-client",
-            "stars": 21453,
+            "stars": 21462,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "NOASSERTION",
             "homepage_url": "https://gitbutler.com"
@@ -8028,7 +8028,7 @@
                 "windows"
             ],
             "category": "window-management",
-            "stars": 12572,
+            "stars": 12577,
             "flags": [],
             "last_commit": "06/20/2026",
             "language": "Rust",
@@ -8044,7 +8044,7 @@
                 "cross"
             ],
             "category": "video-editing",
-            "stars": 9283,
+            "stars": 9287,
             "flags": [],
             "last_commit": "07/16/2026",
             "language": "Rust",
@@ -8062,7 +8062,7 @@
                 "cross"
             ],
             "category": "terminal-utilities",
-            "stars": 6160,
+            "stars": 6163,
             "flags": [],
             "last_commit": "07/30/2026",
             "language": "Rust",
@@ -8116,7 +8116,7 @@
             "category": "file-manager",
             "stars": 4798,
             "flags": [],
-            "last_commit": "08/06/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://xplr.dev"
@@ -8132,7 +8132,7 @@
                 "cross"
             ],
             "category": "audio-player",
-            "stars": 7046,
+            "stars": 7051,
             "flags": [],
             "last_commit": "07/20/2026",
             "language": "Rust",
@@ -8150,7 +8150,7 @@
                 "cross"
             ],
             "category": "mail",
-            "stars": 6984,
+            "stars": 6997,
             "flags": [],
             "last_commit": "07/31/2026",
             "language": "Rust",
@@ -8170,7 +8170,7 @@
             "category": "tools",
             "stars": 6917,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "MIT",
             "homepage_url": "https://crates.io/crates/skim"
@@ -8184,9 +8184,9 @@
                 "linux"
             ],
             "category": "window-management",
-            "stars": 26756,
+            "stars": 26788,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "GPL-3.0",
             "homepage_url": "https://niri-wm.github.io/niri/"
@@ -8200,7 +8200,7 @@
                 "linux"
             ],
             "category": "window-management",
-            "stars": 10537,
+            "stars": 10535,
             "flags": [],
             "last_commit": "07/28/2026",
             "language": "C",
@@ -8216,7 +8216,7 @@
                 "linux"
             ],
             "category": "window-management",
-            "stars": 4251,
+            "stars": 4253,
             "flags": [],
             "last_commit": "07/30/2026",
             "language": "JavaScript",
@@ -8250,7 +8250,7 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 4079,
+            "stars": 4081,
             "flags": [],
             "last_commit": "08/07/2026",
             "language": "Rust",
@@ -8268,9 +8268,9 @@
                 "cross"
             ],
             "category": "vpn",
-            "stars": 13037,
+            "stars": 13045,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "LGPL-3.0",
             "homepage_url": "https://easytier.cn"
@@ -8322,7 +8322,7 @@
                 "cross"
             ],
             "category": "prompt",
-            "stars": 23246,
+            "stars": 23254,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Go",
@@ -8340,7 +8340,7 @@
                 "cross"
             ],
             "category": "prompt",
-            "stars": 20553,
+            "stars": 20555,
             "flags": [],
             "last_commit": "08/05/2026",
             "language": "Shell",
@@ -8358,9 +8358,9 @@
                 "cross"
             ],
             "category": "prompt",
-            "stars": 59328,
+            "stars": 59338,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Rust",
             "license": "ISC",
             "homepage_url": "https://starship.rs"
@@ -8390,9 +8390,9 @@
                 "windows"
             ],
             "category": "launcher",
-            "stars": 15341,
+            "stars": 15343,
             "flags": [],
-            "last_commit": "08/08/2026",
+            "last_commit": "08/10/2026",
             "language": "C#",
             "license": "MIT",
             "homepage_url": "https://flowlauncher.com"
@@ -8408,7 +8408,7 @@
                 "cross"
             ],
             "category": "launcher",
-            "stars": 16303,
+            "stars": 16305,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "C",
@@ -8424,7 +8424,7 @@
                 "windows"
             ],
             "category": "uncategorized",
-            "stars": 17510,
+            "stars": 17517,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "Rust",
@@ -8440,7 +8440,7 @@
                 "cross"
             ],
             "category": "dev-tools",
-            "stars": 18967,
+            "stars": 18969,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -8456,9 +8456,9 @@
                 "cross"
             ],
             "category": "ide",
-            "stars": 46228,
+            "stars": 46252,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "JavaScript",
             "license": "MIT",
             "homepage_url": "https://www.usebruno.com/"
@@ -8489,9 +8489,9 @@
                 "vscode"
             ],
             "category": "canvas",
-            "stars": 129222,
+            "stars": 129285,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "MIT",
             "homepage_url": "https://excalidraw.com"
@@ -8507,7 +8507,7 @@
                 "selfhost"
             ],
             "category": "canvas",
-            "stars": 6414,
+            "stars": 6415,
             "flags": [],
             "last_commit": "08/09/2026",
             "language": "TypeScript",
@@ -8524,9 +8524,9 @@
                 "web-cloud"
             ],
             "category": "search-engine",
-            "stars": 9029,
+            "stars": 9035,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "Apache-2.0",
             "homepage_url": "https://chat.morphic.sh"
@@ -8540,7 +8540,7 @@
                 "windows"
             ],
             "category": "windows",
-            "stars": 60113,
+            "stars": 60182,
             "flags": [],
             "last_commit": "08/10/2026",
             "language": "PowerShell",
@@ -8558,7 +8558,7 @@
                 "n/a"
             ],
             "category": "neovim-extensions",
-            "stars": 10431,
+            "stars": 10433,
             "flags": [],
             "last_commit": "06/19/2026",
             "language": "Lua",
@@ -8574,7 +8574,7 @@
                 "mobile"
             ],
             "category": "social-network",
-            "stars": 7054,
+            "stars": 7056,
             "flags": [],
             "last_commit": "06/29/2026",
             "language": "PHP",
@@ -8590,7 +8590,7 @@
                 "selfhost"
             ],
             "category": "markdown-editor",
-            "stars": 10126,
+            "stars": 10127,
             "flags": [],
             "last_commit": "10/02/2025",
             "language": "JavaScript",
@@ -8609,7 +8609,7 @@
             "category": "mail",
             "stars": 5538,
             "flags": [],
-            "last_commit": "08/07/2026",
+            "last_commit": "08/10/2026",
             "language": "TypeScript",
             "license": "GPL-3.0",
             "homepage_url": ""
@@ -8624,9 +8624,9 @@
                 "mobile"
             ],
             "category": "social-network",
-            "stars": 50182,
+            "stars": 50188,
             "flags": [],
-            "last_commit": "08/09/2026",
+            "last_commit": "08/10/2026",
             "language": "Ruby",
             "license": "AGPL-3.0",
             "homepage_url": "https://joinmastodon.org"
