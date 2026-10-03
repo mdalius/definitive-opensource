@@ -313,7 +313,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Browser Use](https://github.com/browser-use/browser-use) `Manual` | Agents that use the browser. | `Cross` | **117k** |
-| [c/ua](https://github.com/trycua/cua) `Manual` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. | `Cross` | **27.7k** |
+| [c/ua](https://github.com/trycua/cua) `Manual` | Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. | `Cross` | **27.8k** |
 | [gptme](https://github.com/gptme/gptme) `CLI` `Manual` | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top! | `Cross` | **4.4k** |
 | [Open Intepreter](https://github.com/OpenInterpreter/open-interpreter) `Manual` | A coding agent for open models like Kimi K3 and GLM 5.3 | `Cross` | **68.5k** |
 | [Telegraf](https://github.com/influxdata/telegraf) `CLI+` | Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data. | `Cross` `SelfHost` | **17.8k** |
@@ -340,13 +340,13 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes) | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes | `Windows` `MacOS` | **31.3k** |
+| [Meetily](https://github.com/Zackriya-Solutions/meeting-minutes) | Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes | `Windows` `MacOS` | **31.4k** |
 
 ### Context
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [screenpipe](https://github.com/mediar-ai/screenpipe) 💰 💥 | YC (S26) - Open Computer History - Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...) | `MacOS` `Windows` | **21.8k** |
+| [screenpipe](https://github.com/mediar-ai/screenpipe) 💰 💥 | YC (S26) - Open Computer History - Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context | `MacOS` `Windows` | **21.8k** |
 
 ### Information Processing
 
@@ -363,7 +363,7 @@
 | [Chatbox](https://github.com/Bin-Huang/chatbox) | Powerful AI Client | `Cross` | **41.9k** |
 | [Cherry Studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | `Cross` | **52.3k** |
 | [GPT4ALL](https://github.com/nomic-ai/gpt4all) | GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. | `Cross` | **77.4k** |
-| [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | `Cross` | **44.7k** |
+| [Jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | `Cross` | **44.8k** |
 | [NextChat](https://github.com/ChatGPTNextWeb/NextChat) `CLI+` | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows. | `Cross` `Web (Cloud)` | **88.8k** |
 
 ### Manager
@@ -371,7 +371,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [KoboldCpp](https://github.com/LostRuins/koboldcpp) | KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install. | `Cross` `SelfHost` | **11.9k** |
-| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | `Cross` `SelfHost` | **182k** |
+| [Ollama](https://github.com/ollama/ollama) 🌍`CLI` | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. | `Cross` `SelfHost` | **182.1k** |
 | [StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) | Multi-Platform Package Manager for Stable Diffusion | `Cross` | **8.9k** |
 
 ### Model Tools
@@ -435,10 +435,10 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Backrest](https://github.com/garethgeorge/backrest) | Backrest is a web UI and orchestrator for restic backup. | `Cross` `SelfHost` | **7.4k** |
+| [Backrest](https://github.com/garethgeorge/backrest) | Backrest is a web UI and orchestrator for restic backup. | `Cross` `SelfHost` | **7.5k** |
 | [Borg](https://github.com/borgbackup/borg) `CLI` | Deduplicating archiver with compression and authenticated encryption. | `Cross` | **13.8k** |
 | [Duplicacy](https://github.com/gilbertchen/duplicacy) `CLI` | A new generation cloud backup tool  | `Cross` | **5.7k** |
-| [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | `Cross` | **15k** |
+| [Duplicati](https://github.com/duplicati/duplicati) | Store securely encrypted backups in the cloud! | `Cross` | **15.1k** |
 | [Kopia](https://github.com/kopia/kopia) `CLI` | Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. | `Cross` | **14.2k** |
 | [Rclone](https://github.com/rclone/rclone) `CLI` | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | `Cross` | **60.1k** |
 | [Restic](https://github.com/restic/restic) `CLI` | Fast, secure, efficient backup program | `Cross` | **36.4k** |
@@ -456,7 +456,7 @@
 | --- | --- | --- | --- |
 | [Rsync](https://github.com/RsyncProject/rsync) `CLI` | An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. | `Cross` | **5.3k** |
 | [Syncthing](https://github.com/syncthing/syncthing) `CLI+` | Open Source Continuous File Synchronization | `Cross` | **89.1k** |
-| [syncthing-macos](https://github.com/syncthing/syncthing-macos) `CLI+` | Official frugal and native macOS Syncthing application bundle | `MacOS` | **3.9k** |
+| [syncthing-macos](https://github.com/syncthing/syncthing-macos) `CLI+` | Official frugal and native macOS Syncthing application bundle | `MacOS` | **4k** |
 
 # Development - [Go to top](#table-of-contents)
 
@@ -504,7 +504,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. | `Cross` | **27k** |
+| [GDevelop](https://github.com/4ian/GDevelop) | 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone. | `Cross` | **27.1k** |
 | [Godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | `Cross` | **118.1k** |
 
 ### Git Client
@@ -514,7 +514,7 @@
 | [GitButler](https://github.com/gitbutlerapp/gitbutler) | The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte | `Cross` | **21.8k** |
 | [GitHub Desktop](https://github.com/desktop/desktop) | Focus on what matters instead of fighting with Git. | `Cross` | **21.9k** |
 | [GitUI](https://github.com/gitui-org/gitui) `TUI` | Blazing 💥 fast terminal-ui for git written in rust 🦀 | `Cross` | **22.5k** |
-| [Lazygit](https://github.com/jesseduffield/lazygit) `TUI` | simple terminal UI for git commands | `Cross` | **82.8k** |
+| [Lazygit](https://github.com/jesseduffield/lazygit) `TUI` | simple terminal UI for git commands | `Cross` | **82.9k** |
 
 ### Git Hosting
 
@@ -616,13 +616,13 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [Audacity](https://github.com/audacity/audacity) | Audio Editor                                      | `Cross` | **18.6k** |
-| [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | `Cross` | **4.3k** |
+| [OpenUtau](https://github.com/stakira/OpenUtau) | Open singing synthesis platform / Open source UTAU successor | `Cross` | **4.4k** |
 
 ### Audio Player
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | `Cross` `SelfHost` | **10k** |
+| [Feishin](https://github.com/jeffvli/feishin) | A modern self-hosted music player. | `Cross` `SelfHost` | **10.1k** |
 | [Navidrome](https://github.com/navidrome/navidrome) | 🎧 Your Personal Streaming Service  | `Cross` `SelfHost` | **23.9k** |
 | [spotify_player](https://github.com/aome510/spotify-player) `TUI` | A Spotify player in the terminal with full feature parity | `Cross` | **7.3k** |
 | [Spotube](https://github.com/KRTirtho/spotube) | 🎧 Open source music streaming app! Available for both desktop & mobile! | `Cross` | **49.6k** |
@@ -672,7 +672,7 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) | Downloads videos and playlists from YouTube | `Cross` | **16.3k** |
-| [yt-dlp](https://github.com/yt-dlp/yt-dlp) `CLI` | A feature-rich command-line audio/video downloader | `Cross` | **194.8k** |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) `CLI` | A feature-rich command-line audio/video downloader | `Cross` | **195k** |
 
 ### Screen Recording
 
@@ -705,7 +705,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  | `Cross` | **24.5k** |
+| [HandBrake](https://github.com/HandBrake/HandBrake) | HandBrake's development repository  | `Cross` | **24.6k** |
 
 # Operating System - [Go to top](#table-of-contents)
 
@@ -768,13 +768,13 @@
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
 | [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) `CLI` | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | `Cross` | **34.9k** |
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | `MacOS` `Windows` `SelfHost` | **93.4k** |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | `MacOS` `Windows` `SelfHost` | **93.5k** |
 
 ### Finance
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | `SelfHost` `Cross` | **29.2k** |
+| [Actual](https://github.com/actualbudget/actual) | A local-first personal finance app | `SelfHost` `Cross` | **29.3k** |
 
 ### Knowledge Base
 
@@ -835,7 +835,7 @@
 | --- | --- | --- | --- |
 | [Bitwarden](https://github.com/bitwarden/server) `CLI+` | Open source security solutions for individuals, teams, and business organizations. Explore Password Manager, Secrets Manager, and passkey innovations. | `Cross` `Mobile` `Chromium` `Firefox` | **20.2k** |
 | [Infiscal](https://github.com/Infisical/infisical) `Manual` `Web UI` | Infisical is the open-source platform for secrets, certificates, and privileged access management. | `Cross` `Web (Cloud)` `SelfHost` | **29.6k** |
-| [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | `Cross` | **29k** |
+| [KeePass](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. | `Cross` | **29.1k** |
 | [LessPass](https://github.com/lesspass/lesspass) `CLI` `CLI+` | :key: stateless open source password manager | `Cross` `Chromium` `Firefox` | **6.1k** |
 | [Passbolt](https://github.com/passbolt/passbolt_api) `CLI+` | Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! | `Cross` `SelfHost` `Chromium` `Firefox` | **6.1k** |
 
@@ -847,7 +847,7 @@
 | [EasyTier](https://github.com/EasyTier/EasyTier) `CLI+` | A simple, decentralized mesh VPN with WireGuard support. | `Cross` | **13.9k** |
 | [NetBird](https://github.com/netbirdio/netbird) | Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. | `Cross` | **29.7k** |
 | [ProtonVPN](https://github.com/ProtonVPN/android-app) `CLI+` | Official ProtonVPN Android app | `Cross` | **4.1k** |
-| [ZeroTier](https://github.com/zerotier/ZeroTierOne) | A Smart Ethernet Switch for Earth | `Cross` `Mobile` | **17.1k** |
+| [ZeroTier](https://github.com/zerotier/ZeroTierOne) | A Smart Ethernet Switch for Earth | `Cross` `Mobile` | **17.2k** |
 
 # Server - [Go to top](#table-of-contents)
 
@@ -912,7 +912,7 @@
 
 | Name | Description | Platform(s) | Stars |
 | --- | --- | --- | --- |
-| [fish](https://github.com/fish-shell/fish-shell) `CLI` | The user-friendly command line shell. | `Cross` | **34.2k** |
+| [fish](https://github.com/fish-shell/fish-shell) `CLI` | The user-friendly command line shell. | `Cross` | **34.3k** |
 | [Nushell](https://github.com/nushell/nushell) `CLI` | A new type of shell | `Cross` | **40.6k** |
 | [xonsh](https://github.com/xonsh/xonsh) `CLI` | 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly. | `Cross` | **9.7k** |
 
@@ -940,8 +940,8 @@
 | --- | --- | --- | --- |
 | [Atuin](https://github.com/atuinsh/atuin) `CLI` | ✨ Making your shell magical | `Cross` | **31.9k** |
 | [delta](https://github.com/dandavison/delta) `CLI` | A syntax-highlighting pager for git, diff, grep, rg --json, and blame output | `Cross` | **32.4k** |
-| [eza](https://github.com/eza-community/eza) `CLI` | A modern alternative to ls | `Cross` | **23.4k** |
-| [fzf](https://github.com/junegunn/fzf) `CLI` | :cherry_blossom: A command-line fuzzy finder | `Cross` | **83.3k** |
+| [eza](https://github.com/eza-community/eza) `CLI` | A modern alternative to ls | `Cross` | **23.5k** |
+| [fzf](https://github.com/junegunn/fzf) `CLI` | :cherry_blossom: A command-line fuzzy finder | `Cross` | **83.4k** |
 | [McFly](https://github.com/cantino/mcfly) `CLI` | Fly through your shell history. Great Scott! | `Cross` | **7.8k** |
 | [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) `CLI` | 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community. | `Cross` | **190k** |
 | [ShellGPT](https://github.com/TheR1D/shell_gpt) `CLI` | A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently. | `Cross` | **12.3k** |
@@ -1046,7 +1046,7 @@
 | [Dockge](https://github.com/louislam/dockge) | A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager | `Cross` | **24.5k** |
 | [KDash](https://github.com/kdash-rs/kdash) `TUI` | A simple and fast dashboard for Kubernetes | `Cross` | **2.5k** |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) `TUI` | The lazier way to manage everything docker | `Cross` | **53k** |
-| [Podman Desktop](https://github.com/podman-desktop/podman-desktop) | Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. | `Cross` | **8k** |
+| [Podman Desktop](https://github.com/podman-desktop/podman-desktop) | Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy containers and Kubernetes — all from your desktop. | `Cross` | **8.1k** |
 
 ### Dotfiles Manager
 
